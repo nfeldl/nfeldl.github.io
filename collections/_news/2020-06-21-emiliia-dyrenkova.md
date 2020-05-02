@@ -13,5 +13,4 @@ categories: events
 published: true
 ---
 
-## Tentative Schedule
 
