@@ -2,7 +2,7 @@ highlighter: 'rouge'
 markdown: kramdown
 kramdown:
   footnote_backlink: "⤻"
-url: http://xpmethod.plaintext.in/
+url: http://nfeldl.github.io/
 future: true
 permalink: none
 
@@ -22,14 +22,14 @@ plugins:
 collections_dir: collections
 collections:
   events:
+    output: false
+  arctic-amplification:
     output: true
-  lit-mod-viz:
+  climate-feedbacks:
     output: true
-  embodied-space-lab:
+  tropical-climate-dynamics:
     output: true
-  knowledge-design-studio:
-    output: true
-  epistemic-action:
+  serious-games:
     output: true
   clusters:
     output: true
@@ -48,25 +48,25 @@ defaults:
       layout: "cluster"
   - scope:
       path: ""
-      type: "lit-mod-viz"
+      type: "arctic-amplification"
     values:
       layout: "project"
   - scope:
       path: ""
-      type: "knowledge-design-studio"
+      type: "climate-feedbacks"
     values:
       layout: "project"
   - scope:
       path: ""
-      type: "embodied-space-lab"
+      type: "tropical-climate-dynamics"
     values:
       layout: "project"
   - scope:
       path: ""
-      type: "epistemic-action"
+      type: "serious games"
     values:
       layout: "project"
-      redirect-from:
-        - public-discourse/
-        - trans-media-collective/
-        - embodied-space-lab/
+#      redirect-from:
+#        - public-discourse/
+#        - trans-media-collective/
+#        - embodied-space-lab/
