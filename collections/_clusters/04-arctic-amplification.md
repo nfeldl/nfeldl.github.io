@@ -1,5 +1,5 @@
 ---
-title: knowledge-design-studio
+title: arctic-amplification 
 ---
 
 <!-- A 75-100 word paragraph describing the motivation behind these projects -->

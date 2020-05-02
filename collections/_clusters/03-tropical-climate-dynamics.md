@@ -1,5 +1,5 @@
 ---
-title: embodied-space-lab
+title: tropical-climate-dynamics 
 ---
 
 Walking can be a mode of analysis that encompasses text, body, and place. The *Embodied Space
