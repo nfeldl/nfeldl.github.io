@@ -1,30 +1,3 @@
-- name: Manan Ahmed
-  url: https://twitter.com/sepoy
-  datestart: 2014
-- name: Alex Gil
-  url: https://twitter.com/elotroalex
-  datestart: 2014
-- name: Kaiama L. Glover
-  url: https://barnard.edu/profiles/kaiama-l-glover
-  datestart: 2015
-- name: Durba Mitra
-  url: http://wgs.fas.harvard.edu/
-  datestart: 2014
-- name: Frances Negrón-Muntaner
-  url: http://www.francesnegronmuntaner.net/
-  datestart: 2015
-- name: Dennis Tenen
-  url: http://denten.plaintext.in
-  datestart: 2014
-- name: Jeremiah Christensen
-  url: http://library.columbia.edu/services/research-data-services/staff.html
-  datestart: 2017
-- name: Tian Zheng
-  url: http://www.stat.columbia.edu/~tzheng/
-  datestart: 2018
-- name: Moacir P. de Sá Pereira
-  url: https://moacir.com/
-  datestart: 2018
-- name: Madiha Choksi
-  url: https://twitter.com/thedatarealist
-  datestart: 2020
+- name: Nicole Feldl 
+  url: http://nicolefeldl.com
+  datestart: 2016
