@@ -1,5 +1,5 @@
 ---
-title: Dependence of transient climate sensitivity on the pattern of ocean heat uptake 
+title: Dependence of transient climate sensitivity on ocean heat uptake patterns 
 people:
 - Brian Rose
 - Kyle Armour
