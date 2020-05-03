@@ -1,5 +1,5 @@
 ---
-title: The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake 
+title: Dependence of transient climate sensitivity on the spatial pattern of ocean heat uptake 
 people:
 - Brian Rose
 - Kyle Armour
