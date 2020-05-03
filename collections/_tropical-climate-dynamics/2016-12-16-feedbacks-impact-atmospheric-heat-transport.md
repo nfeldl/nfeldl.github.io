@@ -1,5 +1,5 @@
 ---
-title: Coupled high-latitude climate feedbacks and their impact on atmospheric heat transport
+title: Coupled high-latitude climate feedbacks impact atmospheric heat transport
 people:
 - Nicole Feldl
 - Simona Bordoni

@@ -1,5 +1,5 @@
 ---
-title: Characterizing the Hadley circulation response through regional climate feedbacks 
+title: Characterizing the Hadley circulation response through climate feedbacks 
 people:
 - Nicole Feldl
 - Simona Bordoni
