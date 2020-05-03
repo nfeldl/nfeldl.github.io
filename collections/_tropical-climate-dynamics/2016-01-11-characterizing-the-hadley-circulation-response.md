@@ -2,7 +2,7 @@
 title: Characterizing the Hadley circulation response through climate feedbacks 
 people:
 - Nicole Feldl
-- Simona Bordoni
+- Simona Bordoni (Caltech)
 type: research paper
 published: true
 updates:

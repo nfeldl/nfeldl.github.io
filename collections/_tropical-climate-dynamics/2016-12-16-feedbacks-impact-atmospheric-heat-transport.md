@@ -2,8 +2,8 @@
 title: Coupled high-latitude climate feedbacks impact atmospheric heat transport
 people:
 - Nicole Feldl
-- Simona Bordoni
-- Tim Merlis
+- Simona Bordoni (Caltech)
+- Tim Merlis (McGill)
 type: research paper
 published: true
 updates:

@@ -2,7 +2,7 @@
 title: Four perspectives on climate feedbacks 
 people:
 - Nicole Feldl
-- Gerard Roe 
+- Gerard Roe (UW) 
 type: research paper
 published: true
 updates:

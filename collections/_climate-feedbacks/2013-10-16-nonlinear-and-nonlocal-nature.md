@@ -2,7 +2,7 @@
 title: The nonlinear and nonlocal nature of climate feedbacks 
 people:
 - Nicole Feldl
-- Gerard Roe 
+- Gerard Roe (UW) 
 type: research paper
 published: true
 updates:

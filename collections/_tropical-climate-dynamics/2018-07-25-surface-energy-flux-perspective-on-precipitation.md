@@ -1,9 +1,9 @@
 ---
 title: Surface-energy-flux perspective on the sensitivity of global precipitation 
 people:
-- Nick Siler 
-- Gerard Roe
-- Kyle Armour
+- Nick Siler (OSU) 
+- Gerard Roe (UW)
+- Kyle Armour (UW)
 - Nicole Feldl 
 type: research paper
 published: true

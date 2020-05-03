@@ -1,9 +1,9 @@
 ---
 title: Dependence of transient climate sensitivity on ocean heat uptake patterns 
 people:
-- Brian Rose
-- Kyle Armour
-- David Battisti
+- Brian Rose (University at Albany)
+- Kyle Armour (UW)
+- David Battisti (UW)
 - Nicole Feldl
 - Daniel Koll
 type: research paper

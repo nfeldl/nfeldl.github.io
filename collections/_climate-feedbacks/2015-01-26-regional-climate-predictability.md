@@ -1,11 +1,11 @@
 ---
 title: The remote impacts of climate feedbacks on regional climate predictability
 people:
-- Gerard Roe 
+- Gerard Roe (UW) 
 - Nicole Feldl
-- Kyle Armour
-- Yen-Ting Hwang
-- Dargan Frierson
+- Kyle Armour (UW)
+- Yen-Ting Hwang (National Taiwan University)
+- Dargan Frierson (UW)
 type: research paper
 published: true
 updates:
