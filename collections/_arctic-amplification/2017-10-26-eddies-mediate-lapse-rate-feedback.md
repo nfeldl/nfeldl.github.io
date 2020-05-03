@@ -2,7 +2,7 @@
 title: Atmospheric eddies mediate lapse rate feedback 
 people:
 - Nicole Feldl
-- Bruce T. Anderson 
+- Bruce Anderson 
 - Simona Bordoni
 type: research paper
 published: true

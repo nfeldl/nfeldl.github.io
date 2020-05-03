@@ -3,9 +3,9 @@ title: The remote impacts of climate feedbacks on regional climate predictabilit
 people:
 - Gerard Roe 
 - Nicole Feldl
-- Kyle C. Armour
+- Kyle Armour
 - Yen-Ting Hwang
-- Dargan M. W. Frierson
+- Dargan Frierson
 type: research paper
 published: true
 updates:
