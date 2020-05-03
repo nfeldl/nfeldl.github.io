@@ -9,7 +9,7 @@ updates:
 
 - date: 2016-1-11
   type: publication
-  text: "Feldl, N., and S. Bordoni (2016), Characterizing the Hadley circulation response through regional climate feedbacks, <i>Journal of Climate</i>, 29, 613-622, [doi:10.1175/JCLI-D-15-0424.1](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0424.1)."
+  text: "Feldl, N., and S. Bordoni (2016), Characterizing the Hadley circulation response through regional climate feedbacks, <i>Journal of Climate</i>, 29, 613-622, [doi:10.1175/JCLI-D-15-0424.1](https://doi.org/10.1175/JCLI-D-15-0424.1)."
 
 ---
 
