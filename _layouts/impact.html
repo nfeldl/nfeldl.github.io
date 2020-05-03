@@ -129,7 +129,7 @@ layout: article
     {% include date-sorting.html %}
     {% for o in order %}
         {% include date-split.html %}
-        {% if update.type contains 'talk' or update.type contains 'press' %}
+        {% if update.type contains 'press' %}
         <div class="update-list mb2">
             <div class="update-date inconsolata">
                 {{ update.date | date: "%m/%y" }}
