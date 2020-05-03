@@ -10,7 +10,7 @@ updates:
 
 - date: 2016-12-16
   type: publication
-  text: "Feldl, N., S. Bordoni, and T. M. Merlis (2017), Coupled high-latitude climate feedbacks and their impact on atmospheric heat transport, Journal of Climate, 30, 189–201, [doi:10.1175/JCLI-D-16-0324.1](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0324.1)."
+  text: "Feldl, N., S. Bordoni, and T. M. Merlis (2017), Coupled high-latitude climate feedbacks and their impact on atmospheric heat transport, <i>Journal of Climate</i>, 30, 189–201, [doi:10.1175/JCLI-D-16-0324.1](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0324.1)."
 
 ---
 
