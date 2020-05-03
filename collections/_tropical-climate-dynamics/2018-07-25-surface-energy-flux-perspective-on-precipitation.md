@@ -1,5 +1,5 @@
 ---
-title: Revisiting the surface-energy-flux perspective on the sensitivity of global precipitation to climate change 
+title: Surface-energy-flux perspective on the sensitivity of global precipitation 
 people:
 - Nick Siler 
 - Gerard Roe
