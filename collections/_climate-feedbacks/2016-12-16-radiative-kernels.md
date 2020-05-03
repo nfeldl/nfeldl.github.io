@@ -2,7 +2,7 @@
 title: Aquaplanet radiative kernels 
 people:
 - Nicole Feldl
-github: https://github.com/nfeldl/aquakernels
+github: nfeldl/aquakernels
 type: data 
 published: true
 
