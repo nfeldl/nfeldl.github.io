@@ -1,5 +1,5 @@
 ---
-title: "Causal interactions between Southern Ocean polynyas and high-latitude atmosphere-ocean variability"
+title: "Causal interactions and Southern Ocean polynyas"
 location:
 participants:
 - Zachary Kaufman 
@@ -26,7 +26,7 @@ updates:
 
 - date: 2019-05-22 
   type: talk
-  text: "Presented by Z. Kaufman at the 15th AMS Conference on Polar Meteorology and Oceanography, Boulder, CO."
+  text: "Presented by Z. S. Kaufman at the 15th AMS Conference on Polar Meteorology and Oceanography, Boulder, CO."
 
 ---
 
