@@ -12,7 +12,7 @@ updates:
   type: talk 
   text: "Presented at 2018 AGU Fall Meeting, Washington, DC."
 
-  date: 2018-10-17
+- date: 2018-10-17
   type: talk 
   text: "Presented at the CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, Boulder, CO."
 
