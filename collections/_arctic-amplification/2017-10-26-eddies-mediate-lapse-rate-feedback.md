@@ -10,7 +10,7 @@ updates:
 
 - date: 2017-10-26
   type: publication
-  text: Feldl, N., B. T. Anderson, and S. Bordoni (2017), Atmospheric eddies mediate lapse rate feedback and Arctic amplification, Journal of Climate, 30, 9213–9224, doi:10.1175/JCLI-D-16-0706.1](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0706.1) 
+  text: Feldl, N., B. T. Anderson, and S. Bordoni (2017), Atmospheric eddies mediate lapse rate feedback and Arctic amplification, Journal of Climate, 30, 9213–9224, [doi:10.1175/JCLI-D-16-0706.1](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0706.1) 
 
 ---
 
