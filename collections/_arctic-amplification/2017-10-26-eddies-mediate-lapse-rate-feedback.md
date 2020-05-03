@@ -9,11 +9,11 @@ published: true
 updates:
 
 - date: 2018-12-14
-  type: presentation
+  type: talk 
   text: "Presented at 2018 AGU Fall Meeting, Washington, DC."
 
   date: 2018-10-17
-  type: presentation
+  type: talk 
   text: "Presented at the CFMIP Meeting on Clouds, Precipitation, Circulation, and Climate Sensitivity, Boulder, CO."
 
 - date: 2017-10-26
@@ -21,7 +21,7 @@ updates:
   text: "Feldl, N., B. T. Anderson, and S. Bordoni (2017), Atmospheric eddies mediate lapse rate feedback and Arctic amplification, <i>Journal of Climate</i>, 30, 9213–9224, [doi:10.1175/JCLI-D-16-0706.1](https://doi.org/10.1175/JCLI-D-16-0706.1)." 
 
 - date: 2017-06-27
-  type: presentation
+  type: talk 
   text: "Presented at the 21st AMS Conference on Atmospheric and Oceanic Fluid Dynamics, Portland, OR."
 
 ---
