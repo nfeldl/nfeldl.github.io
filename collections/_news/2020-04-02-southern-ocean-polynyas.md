@@ -16,15 +16,15 @@ published: true
 
 updates:
 
-- date: 04-02-2020
+- date: 2020-04-02
   type: publication
   text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani, Causal interactions between Southern Ocean polynyas and high-latitude atmosphere-ocean variability, <i>Journal of Climate</i>, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
 
-- date: 02-19-2020
+- date: 2020-02-19
   type: talk
   text: "Presented by W. Weijer at Ocean Sciences Meeting 2020, San Diego, CA."
 
-- date: 05-22-2019 
+- date: 2019-05-22 
   type: talk
   text: "Presented by Z. Kaufman at the 15th AMS Conference on Polar Meteorology and Oceanography, Boulder, CO."
 
