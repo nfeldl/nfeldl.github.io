@@ -5,7 +5,7 @@ title: lab-culture
 
 We would like to maintain a conscious and engaged environment in the lab that supports all members. With this goal in mind, we actively promote the following practices:
 
-1. Grants and fellowships - Write proposals. External funding leverages the group's resources and develops individual grant writing skills.
+1. Grants and fellowships - Write proposals. External funding leverages group resources and develops individual grant writing skills.
 
 2. Research design and execution - Collaborate on research projects at all stages, from initial design through to execution. This includes refinement of ideas that may be taken with members when they leave the group.
 
@@ -13,7 +13,7 @@ We would like to maintain a conscious and engaged environment in the lab that su
 
 4. Broader engagement - Attend department seminars and meet with guest speakers.
 
-5. Publication and presentation - Publish findings in leading academic journals. Conduct internal review of all professional products. For Phd students: Prepare and submit three manuscripts prior to graduation and present talks or posters at one conference per year.
+5. Publication and presentation - Publish findings in leading academic journals. Prioritize the exposure of junior colleagues. Conduct internal review of all professional products. For PhD students: Prepare and submit three manuscripts prior to graduation and present talks or posters at one conference per year.
 
 6. Career planning - Discuss future career goals, inside or out of academia, and plan ways to achieve them.
 
