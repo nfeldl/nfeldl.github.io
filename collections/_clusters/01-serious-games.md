@@ -4,11 +4,7 @@ title: serious-games
 
 <!-- A 75-100 word paragraph describing the motivation behind these projects -->
 
-*Literary Modeling and Visualization Workshop* is a research cluster located at the
-nexus of narratology, data science, and sociology of literature. We are
-particularly interested in advancing formal and exploratory methods for
-**computational literary analysis** in dialog with the rich theoretical
-traditions of the humanities. Moderated by [Dennis Yi Tenen][dt], Department
-of English and Comparative Literature (Columbia University).
+*Serious Games for Climate Change* is a research cluster at the nexus of game design, climate science, and learning science. Our aims are to develop new ways to create better video games for learning about climate change, as well as games that increase public investment and policy engagement in California. Moderated by [Elizabeth Swensen][es], Art and Design: Games and Playable Media, and [Nicole Feldl][nf], Earth and Planetary Sciences.
 
-[dt]: http://denten.plaintext.in/
+[es]: https://danm.ucsc.edu/people/elizabeth-swensen
+[nf]: https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl
