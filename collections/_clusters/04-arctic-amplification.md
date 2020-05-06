@@ -4,13 +4,6 @@ title: arctic-amplification
 
 <!-- A 75-100 word paragraph describing the motivation behind these projects -->
 
-As scholars, students, and archivists, we would like to imagine---study, build---**knowledge
-architectures** that answer to humanistic ideals. Our proximity to the worlds of journalism,
-library science, and publishing gives us an opportunity to affect meaningful change in
-redressing inequalities of access, to envision the future of books and literacy, and to
-experiment with new modalities of human--text interaction. Moderated by [Alex Gil][ag],
-Columbia Library and [Kaiama Glover][kg] (Barnard, French).
+Arctic amplification is widely attributed to the sea-ice albedo feedback and the corresponding increase in absorbed solar radiation, yet an important, and underappreciated, contribution arises from the impact of the vertical structure of atmospheric warming on the Earth's outgoing radiation. Since the Arctic temperature profile may be influenced by a number of processes, this raises questions about the physical mechanisms ultimately responsible for the so-called lapse rate feedback. Our research activities in this cluster focus on creative modeling experiments designed to disentangle atmosphere, ocean, and cryosphere impacts on high-latitude climate change, and novel statistical techniques capable of identifying causal mechanisms in any time series, observational or simulated. Moderated by [Nicole Feldl][nf], Earth and Planetary Sciences.
 
-[ag]: http://www.elotroalex.com/profile/
-[kg]: https://french.barnard.edu/profiles/kaiama-l-glover
-
+[nf]: https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl
