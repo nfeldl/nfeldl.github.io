@@ -1,14 +1,16 @@
 ---
 title: Surface-energy-flux perspective on the sensitivity of global precipitation 
+location:
 participants:
 - Nick Siler (OSU) 
 - Gerard Roe (UW)
 - Kyle Armour (UW)
 - Nicole Feldl 
 type: research paper
+images:
 
 prompt: "Climate models simulate an increase in global precipitation at a rate of approximately 1–3% per Kelvin of global surface warming. This change is often interpreted through the lens of the atmospheric energy budget, in which the increase in global precipitation is mostly offset by an increase in net radiative cooling. Other studies have provided different interpretations from the perspective of the surface, where evaporation represents the turbulent transfer of latent heat to the atmosphere. Expanding on this surface perspective, here we derive a version of the Penman–Monteith equation that allows the change in ocean evaporation to be partitioned into a thermodynamic response to surface warming, and additional diagnostic contributions from changes in surface radiation, ocean heat uptake, and boundary-layer dynamics/relative humidity." 
-i
+
 categories: events
 published: true
 
