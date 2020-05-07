@@ -1,5 +1,5 @@
 ---
-title: "Causal interactions and Southern Ocean polynyas"
+title: "Causal discovery of episodic polynya heat loss in the Weddell Sea"
 location:
 participants:
 - Zachary Kaufman 
@@ -16,9 +16,9 @@ published: true
 
 updates:
 
-- date: 2020-04-02
+- date: 2020-05-07
   type: publication
-  text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani, Causal interactions between Southern Ocean polynyas and high-latitude atmosphere-ocean variability, <i>Journal of Climate</i>, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
+  text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani, Causal interactions between Southern Ocean polynyas and high-latitude atmosphere-ocean variability, <i>Journal of Climate</i>, 33, 4891-4905, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
 
 - date: 2020-02-19
   type: talk
