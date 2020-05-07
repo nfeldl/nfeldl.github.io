@@ -1,6 +1,8 @@
 ---
 layout: people
 title: people
+images:
+- Nicole-Feldl-7.jpg
 ---
 
 This page is generated automatically by polling activity in the "research strains" portion of the website. 
