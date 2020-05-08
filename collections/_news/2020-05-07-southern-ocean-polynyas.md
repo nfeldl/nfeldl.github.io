@@ -1,5 +1,5 @@
 ---
-title: "Causal discovery of episodic polynya heat loss in the Weddell Sea"
+title: "Causal interactions between Southern Ocean polynyas and high-latitude atmosphere-ocean variability"
 location:
 participants:
 - Zachary Kaufman 
@@ -9,7 +9,7 @@ participants:
 type: research paper 
 images:
 
-prompt: "Polynyas are important components of the climate system in the high-latitude Southern Ocean. Open-ocean polynyas have been observed only sporadically in the observational record, but are recurring features in high-resolution climate models. Understanding their impact on the ocean and atmosphere is hence critically important for assessing the fidelity of high-resolution climate models. This study uses Granger Causality to examine the atmosphere-cryosphere-ocean interactions associated with polynyas in the high-resolution climate model E3SMv0-HR."
+prompt: "Polynyas are important components of the climate system in the high-latitude Southern Ocean. Open-ocean polynyas have been observed only sporadically in the observational record, but are recurring features in high-resolution climate models. Understanding their impact on the ocean and atmosphere is hence critically important for assessing the fidelity of high-resolution climate models. This study uses Granger causality to examine the atmosphere-cryosphere-ocean interactions associated with polynyas in the high-resolution climate model E3SMv0-HR."
 
 categories: events
 published: true
@@ -18,7 +18,7 @@ updates:
 
 - date: 2020-05-07
   type: publication
-  text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani, Causal interactions between Southern Ocean polynyas and high-latitude atmosphere-ocean variability, <i>Journal of Climate</i>, 33, 4891-4905, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
+  text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani, <i>Journal of Climate</i>, 33, 4891-4905, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
 
 - date: 2020-02-19
   type: talk
