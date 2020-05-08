@@ -10,11 +10,11 @@ layout: article
 <div class = "mb3">
 
     <div class = "f4 mb2">Collaborators</div>
-
+<!--
     <a href = "/public/images/Nicole-Feldl-7.jpg">
         <img alt = "" src = "/public/images/Nicole-Feldl-7.jpg" class="mw-100 mw5 fr mb4 ml4 b--solid-ns bw1 b--black-20">
     </a>
-
+-->
     <ul class = "people-list di">
         {% for person in people %}
             <li class = "di">{{ person }}</li>
@@ -46,7 +46,7 @@ layout: article
     <div id="gallery-box" class="ml-auto mr-auto relative overflow-hidden">
     {% for image in page.images %}
         <a href="{{ site.url }}/public/images/{{ image }}">
-        <img alt="{{ image }}" src="{{ site.url }}/public/images/{{ image }}" class="mw5 ma2 fl"></a>
+        <img alt="" src="{{ site.url }}/public/images/{{ image }}" class="mw5 ma2 fl"></a>
     {% endfor %}
     </div>
 {% endif %}
