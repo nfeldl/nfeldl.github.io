@@ -5,8 +5,8 @@ _trash/
 .sass-cache/
 .jekyll-cache/
 
-collections/_news/xpmethod/
-collections/_arctic-amplification/xpmethod
-collections/_tropical-climate-dynamics/xpmethod
-collections/_climate-feedbacks/xpmethod
-collections/_serious-games/xpmethod
+collections/_events
+collections/_embodied-space-lab
+collections/_epistemic-action
+collections/_knowledge-design-studio
+collections/_lit-mod-viz
