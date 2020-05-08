@@ -10,11 +10,7 @@ layout: article
 <div class = "mb3">
 
     <div class = "f4 mb2">Collaborators</div>
-<!--
-    <a href = "/public/images/Nicole-Feldl-7.jpg">
-        <img alt = "" src = "/public/images/Nicole-Feldl-7.jpg" class="mw-100 mw5 fr mb4 ml4 b--solid-ns bw1 b--black-20">
-    </a>
--->
+
     <ul class = "people-list di">
         {% for person in people %}
             <li class = "di">{{ person }}</li>
@@ -30,7 +26,7 @@ layout: article
         {% endfor %}
     </ul>
 
-<div class="f4 mt3">Alumni</div>
+<div class="f4 mt3 mb3">Alumni</div>
 
     <ul class="people-list mt0 di">
         {% for mod in site.data.alumns %}
