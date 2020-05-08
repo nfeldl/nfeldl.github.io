@@ -41,4 +41,13 @@ layout: article
         {% endfor %}
     </ul>
 
+<!-- image gallery support -->
+{% if page.images %}
+    <div id="gallery-box" class="ml-auto mr-auto relative overflow-hidden">
+    {% for image in page.images %}
+        <a href="{{ site.url }}/public/images/{{ image }}">
+        <img alt="" src="{{ site.url }}/public/images/{{ image }}" class="mw5 ma2 fl"></a>
+    {% endfor %}
+    </div>
+{% endif %}
 
