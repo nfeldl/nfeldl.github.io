@@ -18,7 +18,7 @@ updates:
 
 - date: 2020-05-07
   type: publication
-  text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani, <i>Journal of Climate</i>, 33, 4891-4905, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
+  text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani (2020), <i>Journal of Climate</i>, 33, 4891-4905, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
 
 - date: 2020-02-19
   type: talk
