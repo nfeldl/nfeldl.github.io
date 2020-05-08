@@ -11,7 +11,7 @@ updates:
 
 - date: 2018-05-31
   type: publication
-  text: "Kim, D., S. M. Kang, Y. Shin, and N. Feldl (2018), Sensitivity of polar amplification to varying insolation conditions, <i>Journal of Climate</i>, 31, 4933–4947, [doi:10.1175/JCLI-D-17-0627.1](https://doi.org/10.1175/JCLI-D-17-0627.1)."
+  text: "Kim, D., S. M. Kang, Y. Shin, and N. Feldl (2018), <i>Journal of Climate</i>, 31, 4933–4947, [doi:10.1175/JCLI-D-17-0627.1](https://doi.org/10.1175/JCLI-D-17-0627.1)."
 
 ---
 

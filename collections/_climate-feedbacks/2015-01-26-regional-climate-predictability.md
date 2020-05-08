@@ -1,5 +1,5 @@
 ---
-title: The remote impacts of climate feedbacks on regional climate predictability
+title: The remote impacts of climate feedbacks on regional climate predictability 
 people:
 - Gerard Roe (UW) 
 - Nicole Feldl
@@ -12,7 +12,7 @@ updates:
 
 - date: 2015-01-26
   type: publication
-  text: "Roe, G. H., N. Feldl, K. C. Armour, Y.-T. Hwang, and D. M. W. Frierson (2015), The remote impacts of climate feedbacks on regional climate predictability, <i>Nature Geoscience</i>, 8, 135-139, [doi:10.1038/ngeo2346](https://doi.org/10.1038/ngeo2346)."
+  text: "Roe, G. H., N. Feldl, K. C. Armour, Y.-T. Hwang, and D. M. W. Frierson (2015), <i>Nature Geoscience</i>, 8, 135-139, [doi:10.1038/ngeo2346](https://doi.org/10.1038/ngeo2346)."
 
 ---
 

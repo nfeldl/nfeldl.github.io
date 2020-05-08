@@ -9,7 +9,7 @@ updates:
 
 - date: 2013-10-16
   type: publication
-  text: "Feldl, N., and G. H. Roe (2013), The nonlinear and nonlocal nature of climate feedbacks, <i>Journal of Climate</i>, 26, 8289–8304, [doi:10.1175/JCLI-D-12-00631.1](https://doi.org/10.1175/JCLI-D-12-00631.1)."
+  text: "Feldl, N., and G. H. Roe (2013), <i>Journal of Climate</i>, 26, 8289–8304, [doi:10.1175/JCLI-D-12-00631.1](https://doi.org/10.1175/JCLI-D-12-00631.1)."
 
 ---
 

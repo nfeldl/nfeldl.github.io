@@ -1,5 +1,5 @@
 ---
-title: Dependence of transient climate sensitivity on ocean heat uptake patterns 
+title: The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake
 people:
 - Brian Rose (University at Albany)
 - Kyle Armour (UW)
@@ -12,7 +12,7 @@ updates:
 
 - date: 2014-01-24
   type: publication
-  text: "Rose, B. E. J., K. C. Armour, D. S. Battisti, N. Feldl, and D. D. B. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake, <i>Geophysical Research Letters</i>, 41, [doi:10.1002/2013GL058955](https://doi.org/10.1002/2013GL058955)."
+  text: "Rose, B. E. J., K. C. Armour, D. S. Battisti, N. Feldl, and D. D. B. Koll (2014), <i>Geophysical Research Letters</i>, 41, [doi:10.1002/2013GL058955](https://doi.org/10.1002/2013GL058955)."
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Surface-energy-flux perspective on the sensitivity of global precipitation 
+title: "Revisiting the surface-energy-flux perspective on the sensitivity of global precipitation to climate change" 
 location:
 participants:
 - Nick Siler (OSU) 
@@ -18,7 +18,7 @@ updates:
 
 - date: 2018-07-25
   type: publication
-  text: "Siler, N., G. H. Roe, K. C. Armour, N. Feldl (2019), Revisiting the surface-energy-flux perspective on the sensitivity of global precipitation to climate change, <i>Climate Dynamics</i>, 52, [doi:10.1007/s00382-018-4359-0]()."
+  text: "Siler, N., G. H. Roe, K. C. Armour, N. Feldl (2019), <i>Climate Dynamics</i>, 52, [doi:10.1007/s00382-018-4359-0]()."
 
 ---
 

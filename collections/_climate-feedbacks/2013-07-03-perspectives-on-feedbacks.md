@@ -9,7 +9,7 @@ updates:
 
 - date: 2013-07-03
   type: publication
-  text: "Feldl, N., and G. H. Roe (2013), Four perspectives on climate feedbacks, <i>Geophysical Research Letters</i>, 40, [doi:10.1002/grl.50711](https://doi.org/10.1002/grl.50711)."
+  text: "Feldl, N., and G. H. Roe (2013), <i>Geophysical Research Letters</i>, 40, [doi:10.1002/grl.50711](https://doi.org/10.1002/grl.50711)."
 
 ---
 

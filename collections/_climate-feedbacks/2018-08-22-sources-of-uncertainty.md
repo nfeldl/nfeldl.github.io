@@ -12,7 +12,7 @@ updates:
 
 - date: 2018-08-22
   type: publication
-  text: "Bonan, D. B., K. C. Armour, G. H. Roe, N. Siler, and N. Feldl (2018), Sources of uncertainty in the meridional pattern of climate change, <i>Geophysical Research Letters</i>, 45, [doi:10.1029/2018GL079429](https://doi.org/10.1029/2018GL079429)."
+  text: "Bonan, D. B., K. C. Armour, G. H. Roe, N. Siler, and N. Feldl (2018), <i>Geophysical Research Letters</i>, 45, [doi:10.1029/2018GL079429](https://doi.org/10.1029/2018GL079429)."
 
 ---
 
