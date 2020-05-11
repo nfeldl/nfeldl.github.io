@@ -11,6 +11,13 @@ prompt: "The Climate Dynamics Group is pleased to welcome Lamat fellow, Emiliia 
 
 categories: events
 published: true
+
+updates:
+
+- date: 2019-02-08
+  type: grant
+  text : "REU: The Lamat Summer Research Program on High Performance Computing in Astrophysics"
+
 ---
 
 
