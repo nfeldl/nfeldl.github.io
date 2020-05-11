@@ -2,8 +2,11 @@
 title: "Lamat Program in Computational Astrophysics"  
 location: "UC Santa Cruz"
 participants:
-- Emiliia Dyrenkova 
-- Nicole Feldl 
+- Enrico Ramirez-Ruiz
+- Jason Prochaska
+- Ruth Murray-Clay
+- Nicole Feldl
+- Brant Robertson
 type: summer program
 images:
 
@@ -16,7 +19,7 @@ updates:
 
 - date: 2019-02-08
   type: grant
-  text : "REU: The Lamat Summer Research Program on High Performance Computing in Astrophysics"
+  text : "NSF REU: The Lamat Summer Research Program on High Performance Computing in Astrophysics"
 
 ---
 
