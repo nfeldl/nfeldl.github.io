@@ -28,6 +28,10 @@ updates:
   type: talk
   text: "Presented by Z. S. Kaufman at the 15th AMS Conference on Polar Meteorology and Oceanography, Boulder, CO."
 
+- date: 2019-04-08
+  type: grant
+  text: "NSF GRF: The Use of Causal Discovery Techniques for Quantifying High-Latitude Climate Feedbacks" 
+
 ---
 
 
