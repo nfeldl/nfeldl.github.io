@@ -1,5 +1,5 @@
 ---
-title: "Causal Discovery of the Role of Sea Ice in Polar Climate Change"
+title: "The Use of Causal Discovery Techniques for Quantifying High-Latitude Climate Feedbacks"
 people:
 - Zachary Kaufman 
 type: grant 
@@ -8,7 +8,7 @@ updates:
 
 - date: 2019-04-08
   type: grant
-  text: "NSF GRF awarded to Zachary Kaufman: The Use of Causal Discovery Techniques for Quantifying High-Latitude Climate Feedbacks"
+  text: "NSF GRF awarded to Zachary Kaufman"
 
 ---
 
