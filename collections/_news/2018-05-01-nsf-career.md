@@ -8,7 +8,7 @@ updates:
 
 - date: 2018-05-01
   type: grant
-  text: NSF CAREER, Nicole Feldl (PI) 
+  text: NSF CAREER awarded to Nicole Feldl 
 
 ---
 
