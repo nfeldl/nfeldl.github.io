@@ -1,7 +1,7 @@
 ---
 title: "Causal interactions between Southern Ocean polynyas and high-latitude atmosphere-ocean variability"
 location:
-participants:
+people:
 - Zachary Kaufman 
 - Nicole Feldl 
 - Wilbert Weijer

@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the surface-energy-flux perspective on the sensitivity of global precipitation to climate change" 
 location:
-participants:
+people:
 - Nick Siler (OSU) 
 - Gerard Roe (UW)
 - Kyle Armour (UW)

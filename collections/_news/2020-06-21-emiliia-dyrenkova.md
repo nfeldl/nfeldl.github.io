@@ -2,6 +2,11 @@
 title: "The Lamat Summer Research Program on High Performance Computing in Astrophysics"
 location: "UC Santa Cruz"
 participants:
+- Enrico Ramirez-Ruiz 
+- Jason Prochaska
+- Ruth Murray-Clay
+- Nicole Feldl
+- Brant Robertson
 type: summer program
 images:
 
@@ -14,7 +19,7 @@ updates:
 
 - date: 2019-02-08
   type: grant
-  text : "NSF REU, Enrico Ramirez-Ruiz (PI), Jason Prochaska (Co-PI), Ruth Murray-Clay (Co-PI), Nicole Feldl (Co-PI), Brant Robertson (Co-PI)"
+  text : "NSF REU funded"
 
 ---
 
