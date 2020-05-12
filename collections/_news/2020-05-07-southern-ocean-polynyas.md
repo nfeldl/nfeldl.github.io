@@ -4,8 +4,8 @@ location:
 people:
 - Zachary Kaufman 
 - Nicole Feldl 
-- Wilbert Weijer
-- Milena Veneziani
+- Wilbert Weijer (LANL)
+- Milena Veneziani (LANL)
 type: research paper 
 images:
 
