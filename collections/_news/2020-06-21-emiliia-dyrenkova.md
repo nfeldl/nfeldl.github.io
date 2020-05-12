@@ -23,7 +23,7 @@ updates:
 
 - date: 2019-02-08
   type: grant
-  text : "NSF REU funded"
+  text : "NSF REU funded."
 
 ---
 

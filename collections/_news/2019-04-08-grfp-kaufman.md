@@ -8,7 +8,7 @@ updates:
 
 - date: 2019-04-08
   type: grant
-  text: "NSF GRF awarded to Zachary Kaufman"
+  text: "NSF GRF awarded to Zachary Kaufman."
 
 ---
 

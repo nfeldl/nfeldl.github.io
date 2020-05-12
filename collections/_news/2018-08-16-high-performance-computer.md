@@ -15,11 +15,11 @@ updates:
 
 - date: 2018-09-10
   type: press
-  text: "[NSF funds powerful new supercomputer for UC Santa Cruz researchers](https://news.ucsc.edu/2018/09/supercomputer.html)"
+  text: "[NSF funds powerful new supercomputer for UC Santa Cruz researchers](https://news.ucsc.edu/2018/09/supercomputer.html)."
 
 - date: 2018-08-16
   type: grant
-  text: "NSF MRI funded"
+  text: "NSF MRI funded."
 
 ---
 
