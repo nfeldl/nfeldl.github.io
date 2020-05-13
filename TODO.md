@@ -2,7 +2,6 @@
 - snapshot all news updates
 - fix notes
 - more elegant navigation for impact
-- add cluster: causal discovery of the role of sea ice in polar climate change
 - search box
 - redirects
 - create gemfile
