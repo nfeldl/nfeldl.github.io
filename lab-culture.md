@@ -17,5 +17,3 @@ We would like to maintain a conscious and engaged environment in the lab that su
 
 6. Career planning - Discuss future career goals, inside or out of academia, and plan ways to achieve them.
 
-Last edited on {{ site.time | date: '%m/%d/%y' }}.
-
