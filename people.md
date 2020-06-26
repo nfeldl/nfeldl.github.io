@@ -4,6 +4,7 @@ title: people
 images:
 - Nicole-Feldl.jpg
 - Zachary-Kaufman.jpg
+- Emiliia-Dyrenkova.jpg
 ---
 
 This page is generated automatically by polling activity in the "research strains" portion of the website. 
