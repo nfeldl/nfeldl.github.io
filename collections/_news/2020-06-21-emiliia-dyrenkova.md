@@ -18,7 +18,7 @@ published: true
 updates:
 
 - date: 2020-06-21
-  type: workshop
+  type: summer program
   text: "The Climate Dynamics Group is pleased to welcome Lamat fellow, Emiliia Dyrenkova."
 
 - date: 2019-02-08
