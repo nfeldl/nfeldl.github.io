@@ -29,7 +29,7 @@ collections:
     output: true 
   arctic-amplification:
     output: true
-  climate-feedbacks:
+  climate-feedbacks-sensitivity:
     output: true
   tropical-climate-dynamics:
     output: true
@@ -57,7 +57,7 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "climate-feedbacks"
+      type: "climate-feedbacks-sensitivity"
     values:
       layout: "project"
   - scope:
