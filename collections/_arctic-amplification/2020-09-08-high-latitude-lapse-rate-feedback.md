@@ -6,9 +6,6 @@ people:
 - Hansi Singh (University of Victoria)
 - Stephanie Hay
 - Paul Kushner
-
-prompt: "A decomposition of the polar lapse rate feedback reveals how it and the sea-ice albedo feedback together dominate Arctic amplification as a coupled, season-spanning, ocean-mediated mechanism."
-
 type: research paper
 image: lapse-rate-feedback.jpg
 published: true
