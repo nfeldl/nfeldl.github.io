@@ -16,4 +16,3 @@ We would like to maintain a conscious and engaged environment in the lab that su
 5. Publication and presentation - Publish findings in leading academic journals. Prioritize the exposure of junior colleagues. Conduct internal review of all professional products. For PhD students: Prepare and submit three manuscripts prior to graduation and present talks or posters at one conference per year.
 
 6. Career planning - Discuss future career goals, inside or out of academia, and plan ways to achieve them.
-
