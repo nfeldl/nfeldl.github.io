@@ -1,7 +1,7 @@
 ---
 title: The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake
 people:
-- Brian Rose (University at Albany)
+- Brian Rose (UAlbany)
 - Kyle Armour (UW)
 - David Battisti (UW)
 - Nicole Feldl
