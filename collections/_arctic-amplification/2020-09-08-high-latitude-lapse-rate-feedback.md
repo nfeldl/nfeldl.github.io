@@ -5,7 +5,8 @@ people:
 - Stephen Po-Chedley (LLNL)
 - Hansi Singh (University of Victoria)
 - Stephanie Hay
-- Paul Kushner
+- Paul Kushner (University of Toronto)
+
 type: research paper
 image: lapse-rate-feedback.jpg
 published: true
