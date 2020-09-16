@@ -13,7 +13,7 @@ published: true
 
 updates:
 
-- date: 2020-08-26
+- date: 2020-09-15
   type: publication
   text: "Feldl, N., S. Po-Chedley, H. K. A. Singh, S. Hay, and P. J. Kusher (2020), <i>npj Climate and Atmospheric Science</i>, accepted." 
 
