@@ -4,6 +4,7 @@ title: people
 images:
 - Nicole-Feldl.jpg
 - Zachary-Kaufman.jpg
+- Po-Chun-Chung.jpg
 - Emiliia-Dyrenkova.jpg
 ---
 
