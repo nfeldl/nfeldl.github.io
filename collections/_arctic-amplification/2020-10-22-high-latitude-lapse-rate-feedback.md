@@ -15,7 +15,7 @@ updates:
 
 - date: 2020-10-22
   type: publication
-  text: "Feldl, N., S. Po-Chedley, H. K. A Singh, S. Hay, and P. J. Kushner (2020), <i>npj Climate and Atmospheric Science</i>, 3, 41, doi.org/10.1038/s41612-020-00146-7. [full-text access](https://rdcu.be/b8SY5)"
+  text: "Feldl, N., S. Po-Chedley, H. K. A Singh, S. Hay, and P. J. Kushner (2020), <i>npj Climate and Atmospheric Science</i>, 3, 41, doi.org/10.1038/s41612-020-00146-7. [[full-text access](https://rdcu.be/b8SY5)]"
 
 - date: 2020-08-21
   type: talk 
