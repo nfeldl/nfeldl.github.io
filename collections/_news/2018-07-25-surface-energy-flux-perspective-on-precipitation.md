@@ -2,7 +2,7 @@
 title: "Revisiting the surface-energy-flux perspective on the sensitivity of global precipitation to climate change" 
 location:
 people:
-- Nick Siler (OSU) 
+- Nicholas Siler (OSU) 
 - Gerard Roe (UW)
 - Kyle Armour (UW)
 - Nicole Feldl 

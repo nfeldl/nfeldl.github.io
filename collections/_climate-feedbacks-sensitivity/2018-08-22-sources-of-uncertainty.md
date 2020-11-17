@@ -1,10 +1,10 @@
 ---
 title: Sources of uncertainty in the meridional pattern of climate change 
 people:
-- Dave Bonan
+- David Bonan
 - Kyle Armour (UW)
 - Gerard Roe (UW)
-- Nick Siler (OSU)
+- Nicholas Siler (OSU)
 - Nicole Feldl 
 type: research paper
 published: true
