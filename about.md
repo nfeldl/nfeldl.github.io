@@ -9,7 +9,7 @@ To carry out our investigations, we use observational data and simulations rangi
 
 > "Within the collection of possible planetary atmospheres, one which is devoid of irregularities occupies a more central and fundamental position than one with any specific arrangement of irregularities."[^1]
 
-To ensure our research has broad impact, we collaborate with game designers and learning experts to make serious games about climate change. We seek to leverage the power of both games and models to promote the learning of complex topics through experimentation and play. Games additionally hold promise as tools for social empowerment, inspiring individual agency and positive action. Through these efforts, we engage with public concern over adapting to and mitigating climate change. 
+To ensure our research has broad impact, we collaborate with game designers and learning experts to make serious games about climate change. We seek to leverage the power of both games and models to promote the learning of complex topics through experimentation and play. Games additionally hold promise as tools for social empowerment, inspiring individual agency and positive action. Through these efforts, we engage with a concerned, climate-conscious public. 
 
 [^1]: Lorenz, Edward (1967). *The Nature and Theory of the General Circulation of the Atmosphere*.
 
