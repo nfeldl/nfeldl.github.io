@@ -1,8 +1,8 @@
 <div class="mb2">
     <div>
-        <a class="external" href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
     <div>
-        {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        {{ update.text | markdownify | remove: '<p>' | remove: '</p>' | replace: 'a href', 'a class="external" href' }}
     </div>
 </div>
