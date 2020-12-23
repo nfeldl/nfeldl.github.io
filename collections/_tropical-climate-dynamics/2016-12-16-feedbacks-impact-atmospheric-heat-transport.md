@@ -8,7 +8,7 @@ type: research paper
 published: true
 updates:
 
-- date: 2016-12-16
+- date: 2017-01-01
   type: publication
   text: "Feldl, N., S. Bordoni, and T. M. Merlis (2017), <i>Journal of Climate</i>, 30, 189–201, [doi:10.1175/JCLI-D-16-0324.1](https://doi.org/10.1175/JCLI-D-16-0324.1)."
 
