@@ -26,6 +26,13 @@ a, a:visited {
 a:hover, a:visited:hover {
   color: #1c2f2f;
 }
+a.external, a.external:visited {
+  color: Teal;
+  text-decoration: none;
+}
+a.external:hover, a.external:visited:hover {
+  color: #1c2f2f;
+}
 
 ol {
   padding: 0;
