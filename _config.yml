@@ -31,7 +31,7 @@ collections:
     output: true
   climate-feedbacks-sensitivity:
     output: true
-  tropical-climate-dynamics:
+  tropical-extratropical-interactions:
     output: true
   serious-games:
     output: true
@@ -62,7 +62,7 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "tropical-climate-dynamics"
+      type: "tropical-extratropical-interactions"
     values:
       layout: "project"
   - scope:
