@@ -1,9 +1,9 @@
 ---
 layout: article
-title: lab-culture
+title: principles 
 ---
 
-We would like to maintain a conscious and engaged environment in the lab that supports all members. With this goal in mind, we actively promote the following practices:
+We strive to create a community that is welcoming to everyone. Our aim is to develop and maintain an inclusive climate where all members can grow professionally and bring their whole selves to our community. To support the achievement of personal and academic goals, we promote the following practices:
 
 1. Grants and fellowships - Write proposals. External funding leverages group resources and develops individual grant writing skills. The following fellowships are recommended: [NSF Graduate Research Fellowship][nsfgrfp], [NOAA Climate and Global Change Postdoctoral Fellowship][noaacgc], [NSF AGS Postdoctoral Research Fellowship][nsfprf], [James S. McDonnell Foundation Postdoctoral Fellowship][jsmfpf], and the [UC President's Postdoctoral Fellowship][ucpres] for female and minority PhD recipients.
 
