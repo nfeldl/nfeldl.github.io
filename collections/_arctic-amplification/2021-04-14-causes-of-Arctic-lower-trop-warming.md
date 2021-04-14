@@ -11,7 +11,7 @@ updates:
 
 - date: 2021-04-14
   type: publication
-  text: "Kaufman, Z. S., and N. Feldl (2021), Causes of the Arctic's lower-tropospheric warming structure, submitted."
+  text: "Kaufman, Z. S., and N. Feldl (2021), submitted."
 
 ---
 
