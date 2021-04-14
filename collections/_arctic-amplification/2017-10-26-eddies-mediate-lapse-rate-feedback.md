@@ -10,7 +10,7 @@ updates:
 
 - date: 2019-08-15
   type: data
-  text: "Supporting data published on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4031628.svg)](https://doi.org/10.5281/zenodo.4031628)"
+  text: "Supporting data published on Zenodo [https://doi.org/10.5281/zenodo.4031628](https://doi.org/10.5281/zenodo.4031628)"
 
 - date: 2018-12-14
   type: talk 
