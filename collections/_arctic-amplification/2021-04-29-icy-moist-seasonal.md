@@ -1,5 +1,5 @@
 ---
-title: Polar amplification in idealized climates: the role of ice, moisture, and seasons 
+title: "Polar amplification in idealized climates: the role of ice, moisture, and seasons" 
 people:
 - Nicole Feldl
 - Timothy Merlis
