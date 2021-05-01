@@ -27,9 +27,9 @@ collections_dir: collections
 collections:
   news:
     output: true 
-  arctic-amplification:
+  polar-amplification:
     output: true
-  climate-feedbacks-sensitivity:
+  feedbacks-sensitivity:
     output: true
   tropical-extratropical-interactions:
     output: true
@@ -52,12 +52,12 @@ defaults:
       layout: "cluster"
   - scope:
       path: ""
-      type: "arctic-amplification"
+      type: "polar-amplification"
     values:
       layout: "project"
   - scope:
       path: ""
-      type: "climate-feedbacks-sensitivity"
+      type: "feedbacks-sensitivity"
     values:
       layout: "project"
   - scope:
