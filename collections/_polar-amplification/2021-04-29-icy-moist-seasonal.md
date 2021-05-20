@@ -11,7 +11,7 @@ updates:
 
 - date: 2021-04-29
   type: publication
-  text: "Feldl, N., and T. M. Merlis (2021), submitted."
+  text: "Feldl, N., and T. M. Merlis (2021), submitted. [pdf](../../public/preprints/icy-moist-seasonal.pdf)"
 
 ---
 
