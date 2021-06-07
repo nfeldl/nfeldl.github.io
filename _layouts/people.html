@@ -11,7 +11,7 @@ layout: article
 {% for post in site.documents %}
     {% assign year = post.updates[0].date | date: '%Y' | plus: 0 %}
     {% assign fiveyearsago = site.time | date: '%Y' | minus: 5 %}
-    {% if year > fiveyearsago %}
+    {% if year >= fiveyearsago %}
         {% assign people = people | push: post.people %}
     {% endif %}
 {% endfor %}
