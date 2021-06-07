@@ -5,11 +5,21 @@ layout: article
 {{ content }}
 
 <!-- lets iterate over the people tag and make a list of all participants -->
-{% assign people = site.documents | map: 'people' | uniq | compact %}
+<!--{% assign people = site.documents | map: 'people' | uniq | compact %} -->
+
+{% assign people = '' | split: ',' %}
+{% for post in site.documents %}
+    {% assign year = post.updates[0].date | date: '%Y' | plus: 0 %}
+    {% assign fiveyearsago = site.time | date: '%Y' | minus: 5 %}
+    {% if year > fiveyearsago %}
+        {% assign people = people | push: post.people %}
+    {% endif %}
+{% endfor %}
+{% assign people = people | uniq | compact %} 
 
 <div class = "mb3">
 
-    <div class = "f4 mb2">Collaborators</div>
+    <div class = "f4 mb2">Recent Collaborators</div>
 
     <ul class = "people-list di">
         {% for person in people %}
