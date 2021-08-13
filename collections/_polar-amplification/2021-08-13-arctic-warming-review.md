@@ -1,5 +1,5 @@
 ---
-title: "Polar amplification in idealized climates: the role of ice, moisture, and seasons" 
+title: "Process drivers, inter-model spread, and the path forward: A review of amplified Arctic warming"
 people:
 - Nicole Feldl
 - Patrick C. Taylor (NASA Langley) 
