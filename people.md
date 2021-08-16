@@ -6,7 +6,7 @@ images:
 - Mark-England.jpeg
 - Zachary-Kaufman.jpg
 - Po-Chun-Chung.jpg
-- Hayes-Devaney.jpg
+- Hayes-Devaney.jpeg
 - Emiliia-Dyrenkova.jpg
 ---
 
