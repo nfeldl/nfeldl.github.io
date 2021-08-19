@@ -9,9 +9,9 @@ published: true
 
 updates:
 
-- date: 2021-04-29
+- date: 2021-08-18
   type: publication
-  text: "Feldl, N., and T. M. Merlis (2021), in press at <i>Geophysical Research Letters</i>. [pdf](../../public/preprints/icy-moist-seasonal.pdf)"
+  text: "Feldl, N., and T. M. Merlis (2021),Polar amplification in idealized climates: The role of ice, moisture, and seasons, \emph{Geophysical Research Letters}, 48, [doi:10.1029/2021GL094130](https://doi.org/10.1029/2021GL094130)."
 
 ---
 
