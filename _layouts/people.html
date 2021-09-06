@@ -7,6 +7,7 @@ layout: article
 <!-- lets iterate over the people tag and make a list of all participants -->
 <!--{% assign people = site.documents | map: 'people' | uniq | compact %} -->
 
+<!--
 {% assign people = '' | split: ',' %}
 {% for post in site.documents %}
     {% assign year = post.updates[0].date | date: '%Y' | plus: 0 %}
@@ -28,6 +29,7 @@ layout: article
     </ul>
 
 </div>
+-->
 
 <div class = "f4">Currently at UCSC</div>
     <ul class = "people-list mt0 di">
