@@ -42,7 +42,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "misc"
+      type: "miscs"
     values:
       layout: "misc"
   - scope:
