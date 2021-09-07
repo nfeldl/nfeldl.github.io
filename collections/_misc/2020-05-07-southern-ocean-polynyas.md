@@ -11,7 +11,7 @@ images:
 
 prompt: "Polynyas are important components of the climate system in the high-latitude Southern Ocean. Open-ocean polynyas have been observed only sporadically in the observational record, but are recurring features in high-resolution climate models. Understanding their impact on the ocean and atmosphere is hence critically important for assessing the fidelity of high-resolution climate models. This study uses Granger causality to examine the atmosphere-cryosphere-ocean interactions associated with polynyas in the high-resolution climate model E3SMv0-HR."
 
-categories: events
+categories: miscs
 published: true
 
 updates:
