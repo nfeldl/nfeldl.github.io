@@ -5,13 +5,14 @@ people:
 - Timothy Merlis (McGill)
 
 type: research paper
+image: moist-dry-pa.jpg
 published: true
 
 updates:
 
 - date: 2021-08-18
   type: publication
-  text: "Feldl, N., and T. M. Merlis (2021), <i>Geophysical Research Letters</i>, 48, [doi:10.1029/2021GL094130](https://doi.org/10.1029/2021GL094130)."
+  text: "Feldl, N., and T. M. Merlis (2021), <i>Geophysical Research Letters</i>, 48, e2021GL094130, [doi:10.1029/2021GL094130](https://doi.org/10.1029/2021GL094130)."
 
 ---
 

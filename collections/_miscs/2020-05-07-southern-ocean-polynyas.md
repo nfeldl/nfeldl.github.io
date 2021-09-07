@@ -20,14 +20,6 @@ updates:
   type: publication
   text: "Kaufman, Z. S., N. Feldl, W. Weijer, and M. Veneziani (2020), <i>Journal of Climate</i>, 33, 4891-4905, [doi:10.1175/JCLI-D-19-0525.1](https://doi.org/10.1175/JCLI-D-19-0525.1)."
 
-- date: 2020-02-19
-  type: poster 
-  text: "Presented by W. Weijer at Ocean Sciences Meeting 2020, San Diego, CA."
-
-- date: 2019-05-22 
-  type: talk
-  text: "Presented by Z. S. Kaufman at the 15th AMS Conference on Polar Meteorology and Oceanography, Boulder, CO."
-
 ---
 
 
