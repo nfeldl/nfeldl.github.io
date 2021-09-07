@@ -31,7 +31,7 @@ collections:
     output: true
   feedbacks-sensitivity:
     output: true
-  tropical-extratropical-interactions:
+  circulations-transport:
     output: true
   serious-games:
     output: true
@@ -62,7 +62,7 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "tropical-extratropical-interactions"
+      type: "circulations-transport"
     values:
       layout: "project"
   - scope:
