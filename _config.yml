@@ -25,7 +25,7 @@ whitelist:
 
 collections_dir: collections
 collections:
-  misc:
+  miscs:
     output: true 
   polar-amplification:
     output: true
