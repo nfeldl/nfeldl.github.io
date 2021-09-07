@@ -42,7 +42,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "news"
+      type: "misc"
     values:
       layout: "event"
   - scope:
