@@ -1,4 +1,4 @@
 ---
-layout: misc 
+layout: miscs 
 title: misc
 ---
