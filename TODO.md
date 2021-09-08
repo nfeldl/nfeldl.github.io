@@ -1,8 +1,3 @@
-- fix mobile fonts
-- snapshot all news updates
-- fix notes
-- more elegant navigation for impact
-- search box
-- redirects
-- create gemfile
-- a browsing page
+- link to CV in footer
+- using test as example, remove principles from header and link from people 
+- consider replacing papers with simple biblio 

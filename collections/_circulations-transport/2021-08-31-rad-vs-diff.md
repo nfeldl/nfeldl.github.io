@@ -3,7 +3,7 @@ title: "Changes in poleward atmospheric energy transport over a wide range of cl
 people:
 - Timothy Merlis (McGill)
 - Nicole Feldl
-- Rodrigo Caballero
+- Rodrigo Caballero (Stockholm University)
 
 type: research paper
 published: true
@@ -12,7 +12,7 @@ updates:
 
 - date: 2021-08-31
   type: publication
-  text: "Merlis, T. M., N. Feldl, and R. Caballero (2021), submitted." 
+  text: "Merlis, T. M., N. Feldl, and R. Caballero (2021), [submitted](https://eartharxiv.org/repository/view/2665/)." 
 
 ---
 
