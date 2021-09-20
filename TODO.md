@@ -1,3 +1,4 @@
+- delete principles
 - fix snippets on misc
 - link to CV in footer
 - consider replacing papers with simple biblio 
