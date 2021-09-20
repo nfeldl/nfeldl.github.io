@@ -1,3 +1,3 @@
+- fix snippets on misc
 - link to CV in footer
-- using test as example, remove principles from header and link from people 
 - consider replacing papers with simple biblio 

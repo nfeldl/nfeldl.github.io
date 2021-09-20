@@ -1,6 +1,6 @@
 ---
 layout: article
-title: principles 
+title:
 ---
 
 We strive to create a community that is inclusive, collaborative, and engaged. To support the achievement of personal and professional goals, we promote the following practices:
