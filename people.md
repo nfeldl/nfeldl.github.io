@@ -10,7 +10,7 @@ images:
 - Emiliia-Dyrenkova.jpg
 ---
 
-We are always looking for motivated researchers to join our group. If you are interested in pursuing quantitative atmospheric or climate dynamics at the University of California, Santa Cruz, contact [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) to find out how you can get involved. 
+We are always looking for motivated researchers to join our group. If you are interested in pursuing quantitative research in atmospheric or climate dynamics at the University of California, Santa Cruz, contact [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) to find out how you can get involved. 
 
 For prospective graduate students: Please apply to the graduate program in Earth and Planetary Sciences and also consider applying for the [NSF Graduate Research Fellowship][nsfgrfp]. To get a sense for what it's like to work in our group, check out the [Feldl group manual][fgm]. 
 
