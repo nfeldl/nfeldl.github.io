@@ -10,15 +10,11 @@ images:
 - Emiliia-Dyrenkova.jpg
 ---
 
-We are always looking for motivated researchers to join our group. If you are interested in pursuing quantitative or computational research in atmospheric and climate sciences, contact [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) to find out how you can get involved. To get a sense for our group culture, consider reading the [Feldl group manual][fgm]. 
+We are always looking for motivated researchers to join our group. If you are interested in pursuing quantitative atmospheric or climate dynamics at the University of California, Santa Cruz, contact [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) to find out how you can get involved. 
 
-Recommended fellowships for prospective graduate students and postdocs:
-- [NSF Graduate Research Fellowship][nsfgrfp]
-- [NASA Future Investigators in NASA Earth and Space Science and Technology Fellowship][nasa]. 
-- [NOAA Climate and Global Change Postdoctoral Fellowship][noaacgc]
-- [NSF AGS Postdoctoral Research Fellowship][nsfprf]
-- [James S. McDonnell Foundation Postdoctoral Fellowship][jsmfpf]
-- [UC President's Postdoctoral Fellowship][ucpres] for female and minority PhD recipients.
+For prospective graduate students: Please apply to the graduate program in Earth and Planetary Sciences at UC Santa Cruz and also consider applying for the [NSF Graduate Research Fellowship][nsfgrfp]. To get a sense for what it's like to work in our group, consider reading the [Feldl group manual][fgm]. 
+
+For prospective postdoctoral research fellows: Please let us know if you have an idea for collaboration. The following fellowships are recommended: [NOAA Climate and Global Change Postdoctoral Fellowship][noaacgc], [NSF AGS Postdoctoral Research Fellowship][nsfprf], [James S. McDonnell Foundation Postdoctoral Fellowship][jsmfpf], and the [UC President's Postdoctoral Fellowship][ucpres] for female and minority PhD recipients.
 
 [nsfgrfp]: https://www.nsfgrfp.org/
 [noaacgc]: https://cpaess.ucar.edu/cgc
