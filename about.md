@@ -7,5 +7,4 @@ As climate dynamicists, we research the global physical climate, focusing on the
 
 To carry out our investigations, we use a combination of hierarhical numerical modeling, theory, and observational data analysis. Our models range from simple energy balance models, to aquaplanet models with full-complexity atmospheres but devoid of continents, to the most sophisticated class of coupled ocean-atmosphere general circulation models. Theories addressed at understanding atmospheric dynamics help us interpret changes in past, present, and future climates. 
 
-To ensure our research has broad impact, we collaborate with game designers and learning experts to make serious games about climate change. We seek to leverage the power of both games and models to promote the learning of complex topics through experimentation and play. Games additionally hold promise as tools for social empowerment, inspiring individual agency and positive action. Through these efforts, we engage with local and global communities. 
 
