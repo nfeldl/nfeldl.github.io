@@ -1,4 +1,4 @@
-- delete principles
-- fix snippets on misc
 - link to CV in footer
-- consider replacing papers with simple biblio 
+- consider replacing papers with simple biblio
+- remove various misc files once certain I haven't broken my website 
+- add teaching page
