@@ -1,4 +1,4 @@
+- turn about page into something more standard, with a pic of me
+- add teaching page
 - link to CV in footer
 - consider replacing papers with simple biblio
-- remove various misc files once certain I haven't broken my website 
-- add teaching page
