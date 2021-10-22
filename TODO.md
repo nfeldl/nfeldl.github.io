@@ -1,4 +1,3 @@
-- turn about page into something more standard, with a pic of me
+- turn about page into something more standard, with a pic of me?
 - add teaching page
-- link to CV in footer
-- consider replacing papers with simple biblio
+- link to CV somewhere
