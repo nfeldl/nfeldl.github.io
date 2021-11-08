@@ -3,11 +3,11 @@ layout: article
 title: join 
 ---
 
-We are always looking for motivated researchers to join our group. If you are interested in pursuing quantitative research in atmospheric or climate dynamics at the University of California, Santa Cruz, contact [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) to find out how you can get involved. 
+We are always looking for motivated, qualified, and collaborative researchers to join our group. If you are interested in pursuing quantitative research in atmospheric or climate dynamics at the University of California, Santa Cruz, contact [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) to find out how you can get involved. 
 
-For prospective **graduate students:** Please apply to the graduate program in Earth and Planetary Sciences and also consider applying for the [NSF Graduate Research Fellowship][nsfgrfp]. 
+**For prospective graduate students:** Please apply to the graduate program in Earth and Planetary Sciences and also consider applying for the [NSF Graduate Research Fellowship][nsfgrfp]. 
 
-For prospective **postdoctoral researchers:** Please let us know if you have an idea for collaboration. The following fellowships are recommended: [NOAA Climate and Global Change Postdoctoral Fellowship][noaacgc], [NSF AGS Postdoctoral Research Fellowship][nsfprf], [James S. McDonnell Foundation Postdoctoral Fellowship][jsmfpf], and the [UC President's Postdoctoral Fellowship][ucpres] for female and minority PhD recipients.
+**For prospective postdoctoral researchers:** Please let us know if you have an idea for collaboration. The following fellowships are recommended: [NOAA Climate and Global Change Postdoctoral Fellowship][noaacgc], [NSF AGS Postdoctoral Research Fellowship][nsfprf], [James S. McDonnell Foundation Postdoctoral Fellowship][jsmfpf], and the [UC President's Postdoctoral Fellowship][ucpres] for female and minority PhD recipients.
 
 [nsfgrfp]: https://www.nsfgrfp.org/
 [noaacgc]: https://cpaess.ucar.edu/cgc
