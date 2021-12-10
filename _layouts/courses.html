@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% for course in site.courses reversed %}
+  <section class="mb4">
+    {% if course.title != null %}
+
+        <h2 class="ma0 normal">
+            {{ course.title }}
+        </h2>
+
+
+    {% endif %}
+
+    <p class="mt0 ml3">{{ course.prompt }}</p>
+  </section>
+{% endfor %}
