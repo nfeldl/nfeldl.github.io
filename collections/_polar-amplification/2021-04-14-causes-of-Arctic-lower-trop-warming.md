@@ -9,9 +9,9 @@ published: true
 
 updates:
 
-- date: 2021-04-14
+- date: 2021-12-11
   type: publication
-  text: "Kaufman, Z. S., and N. Feldl (2021), submitted."
+  text: "Kaufman, Z. S., and N. Feldl (2021), [submitted](https://eartharxiv.org/repository/view/2941/)."
 
 ---
 
