@@ -1,5 +1,5 @@
 ---
 layout: courses 
-title: teaching 
+title: 
 ---
 
