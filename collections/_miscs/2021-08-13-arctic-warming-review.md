@@ -18,7 +18,7 @@ published: true
 
 updates:
 
-- date: 2021-08-13
+- date: 2022-01-01
   type: publication
   text: "Taylor, P. C., R. C. Boeke, L. N. Boisvert, N. Feldl, M. Henry, Y. Huang, P. L. Langen, W. Liu, F. Pithan, S. A. Sejas, and I. Tan (2021), [submitted](http://eartharxiv.org/repository/view/2693/)."
 

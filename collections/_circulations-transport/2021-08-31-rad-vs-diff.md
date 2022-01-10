@@ -10,7 +10,7 @@ published: true
 
 updates:
 
-- date: 2021-08-31
+- date: 2022-01-01
   type: publication
   text: "Merlis, T. M., N. Feldl, and R. Caballero (2021), [submitted](https://eartharxiv.org/repository/view/2665/)." 
 

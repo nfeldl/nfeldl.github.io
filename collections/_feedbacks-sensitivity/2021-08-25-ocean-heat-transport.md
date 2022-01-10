@@ -11,7 +11,7 @@ published: true
 
 updates:
 
-- date: 2021-08-25
+- date: 2022-01-01
   type: publication
   text: "Singh, H. A., N. Feldl, J. E. Kay, and A. L. Morrison (2021), submitted."
 
