@@ -20,7 +20,7 @@ updates:
 
 - date: 2022-01-01
   type: publication
-  text: "Taylor, P. C., R. C. Boeke, L. N. Boisvert, N. Feldl, M. Henry, Y. Huang, P. L. Langen, W. Liu, F. Pithan, S. A. Sejas, and I. Tan (2021), [submitted](http://eartharxiv.org/repository/view/2693/)."
+  text: "Taylor, P. C., R. C. Boeke, L. N. Boisvert, N. Feldl, M. Henry, Y. Huang, P. L. Langen, W. Liu, F. Pithan, S. A. Sejas, and I. Tan (2022), [doi:10.3389/feart.2021.758361](https://www.frontiersin.org/articles/10.3389/feart.2021.758361/abstract), in press."
 
 ---
 

@@ -11,7 +11,7 @@ updates:
 
 - date: 2022-01-01
   type: publication
-  text: "Kaufman, Z. S., and N. Feldl (2021), [submitted](https://eartharxiv.org/repository/view/2941/)."
+  text: "Kaufman, Z. S., and N. Feldl (2022), [doi:10.1175/JCLI-D-21-0298.1](https://doi.org/10.1175/JCLI-D-21-0298.1), in press.
 
 ---
 
