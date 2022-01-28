@@ -43,9 +43,7 @@ layout: article
     <ul class="people-list mt0 di">
         {% for mod in site.data.alumns %}
             <li class = "di">
-                <a href = "{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }} -
-                {{ mod.dateend }})
-            </li>
+                <a href = "{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }} - {{ mod.dateend }})</li>
         {% endfor %}
     </ul>
 
