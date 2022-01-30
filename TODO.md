@@ -1,3 +1,1 @@
 - turn about page into something more standard, with a pic of me?
-- add teaching page
-- link to CV somewhere

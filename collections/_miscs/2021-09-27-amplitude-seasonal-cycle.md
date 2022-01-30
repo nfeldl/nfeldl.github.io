@@ -23,7 +23,7 @@ published: true
 
 updates:
 
-- date: 2022-01-01
+- date: 2022-12-31
   type: publication
   text: "Santer, B. D., S. Po-Chedley, N. Feldl, J. C. Fyfe, Q. Fu, S. Solomon, M. England, K. B. Rodgers, M. F. Stuecker, C. Mears, C.-Z. Zou, C. J. W. Bonfils, G. Pallotta, M. D. Zelinka, N. Rosenbloom, J. Edwards (2021), submitted."
 
