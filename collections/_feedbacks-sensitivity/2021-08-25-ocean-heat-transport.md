@@ -13,7 +13,7 @@ updates:
 
 - date: 2022-04-06
   type: publication
-  text: "Singh, H. A., N. Feldl, J. E. Kay, and A. L. Morrison (2022), <i>Journal of Climate</i>, 35(9), 2653–2674, [doi:10.1175/JCLI-D-21-0674.1](https://doi.org/10.1175/JCLI-D-21-0674.1)."
+  text: "Singh, H., N. Feldl, J. E. Kay, and A. L. Morrison (2022), <i>Journal of Climate</i>, 35(9), 2653–2674, [doi:10.1175/JCLI-D-21-0674.1](https://doi.org/10.1175/JCLI-D-21-0674.1)."
 
 ---
 
