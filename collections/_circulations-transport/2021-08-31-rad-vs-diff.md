@@ -12,7 +12,7 @@ updates:
 
 - date: 2022-12-31
   type: publication
-  text: "Merlis, T. M., N. Feldl, and R. Caballero (2022), *Journal of Climate*, [doi:10.1175/JCLI-D-21-0682.1](https://doi.org/10.1175/JCLI-D-21-0682.1)." 
+  text: "Merlis, T. M., N. Feldl, and R. Caballero (2022), *Journal of Climate*, 35(20), 2933–2948, [doi:10.1175/JCLI-D-21-0682.1](https://doi.org/10.1175/JCLI-D-21-0682.1)." 
 
 ---
 
