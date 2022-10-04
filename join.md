@@ -9,7 +9,7 @@ We are always looking for motivated, qualified, and collaborative researchers to
 
 **For prospective postdoctoral researchers:** Please let us know if you have an idea for collaboration. The following fellowships are recommended: [NOAA Climate and Global Change Postdoctoral Fellowship][noaacgc], [NSF AGS Postdoctoral Research Fellowship][nsfprf], [James S. McDonnell Foundation Postdoctoral Fellowship][jsmfpf], and the [UC President's Postdoctoral Fellowship][ucpres] for female and minority PhD recipients.
 
-**Update October 2022** The Department of Earth and Planetary Sciences (https://eps.ucsc.edu/) at the University of California, Santa Cruz (UCSC) invites applications for a Postdoctoral Scholar in Arctic Amplification, under the direction of Professor Nicole Feldl. This work is part of a collaborative project funded by the Department of Energy on the role of warm moist air intrusions as a hypothesized driver of Arctic amplification. The postdoctoral scholar will conduct novel radiative-locking experiments in the Energy Exascale Earth System Model (E3SM) to elucidate how moisture intrusions promote water vapor and cloud feedbacks over the Arctic. 
+**Update October 2022** The [Department of Earth and Planetary Sciences](https://eps.ucsc.edu/) at the University of California, Santa Cruz (UCSC) invites applications for a Postdoctoral Scholar in Arctic Amplification, under the direction of Professor Nicole Feldl. This work is part of a collaborative project funded by the Department of Energy on the role of warm moist air intrusions as a hypothesized driver of Arctic amplification. The postdoctoral scholar will conduct novel radiative-locking experiments in the Energy Exascale Earth System Model (E3SM) to elucidate how moisture intrusions promote water vapor and cloud feedbacks over the Arctic. 
 
 [nsfgrfp]: https://www.nsfgrfp.org/
 [noaacgc]: https://cpaess.ucar.edu/cgc
@@ -17,4 +17,5 @@ We are always looking for motivated, qualified, and collaborative researchers to
 [jsmfpf]: https://www.jsmf.org/apply/fellowship/
 [ucpres]: https://ppfp.ucop.edu/info/
 [nasa]: https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init
+[epsgrad]: https://eps.ucsc.edu/graduate/appl-adm.html
 [nf]: https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl
