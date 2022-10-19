@@ -5,7 +5,9 @@ title: join
 
 We are always looking for motivated, qualified, and collaborative researchers to join our group. If you are interested in pursuing quantitative research in atmospheric or climate dynamics at the University of California, Santa Cruz, contact [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) and include your CV and transcript. 
 
-**For prospective graduate students:** Please apply to the [graduate program in Earth and Planetary Sciences][epsgrad] and also consider applying for the [NSF Graduate Research Fellowship][nsfgrfp]. Inquiries are welcome, however, you are not obliged to reach out to me prior to submitting an application. I carefully review all applicants who select me as their top advisor choice in our application system. I typically find it most helpful and equitable to chat once applications have been received. 
+**For prospective graduate students:** Please apply to the [graduate program in Earth and Planetary Sciences][epsgrad] and also consider applying for the [NSF Graduate Research Fellowship][nsfgrfp]. While I endeavor to respond to email inquiries promptly, this is not always possible due to a high volume of emails from prospective graduate students. Please note that I carefully review every application that indicates me as the top advisor choice in our application system, even if the applicant has not made prior contact with me. 
+
+[comment]: <> (Inquiries are welcome, however, you are not obliged to reach out to me prior to submitting an application. I carefully review all applicants who select me as their top advisor choice in our application system. I typically find it most helpful and equitable to chat once applications have been received.) 
 
 **For prospective postdoctoral researchers:** Please let us know if you have an idea for collaboration. The following fellowships are recommended: [NOAA Climate and Global Change Postdoctoral Fellowship][noaacgc], [NSF AGS Postdoctoral Research Fellowship][nsfprf], [James S. McDonnell Foundation Postdoctoral Fellowship][jsmfpf], and the [UC President's Postdoctoral Fellowship][ucpres] for female and minority PhD recipients.
 
