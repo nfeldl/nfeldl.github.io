@@ -33,7 +33,7 @@ collections:
     output: true
   feedbacks-sensitivity:
     output: true
-  circulations-transport:
+  circulations-feedbacks:
     output: true
   serious-games:
     output: true
@@ -69,7 +69,7 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "circulations-transport"
+      type: "circulations-feedbacks"
     values:
       layout: "project"
   - scope:
