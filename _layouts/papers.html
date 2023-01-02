@@ -42,7 +42,7 @@ layout: article
         {% include date-split.html %}
         {% if update.type contains 'publication' or update.type contains 'paper' %}
             {% assign year = update.date | date: '%Y' %}
-            {% if year == '2022' %}
+            {% if year == '2023' %}
                 {% include impact-updates.html %}
             {% endif %}
         {% endif %}
