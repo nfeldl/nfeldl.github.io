@@ -6,7 +6,7 @@ images:
 - Mark-England.jpeg
 - Po-Chun-Chung.jpg
 - Hayes-Devaney.jpeg
-- Zack-defense-dec2022.jpg
+- Zachary-Kaufman.jpg
 - Emiliia-Dyrenkova.jpg
 ---
 

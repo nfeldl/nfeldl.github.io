@@ -54,8 +54,13 @@ layout: article
 {% if page.images %}
     <div id="gallery-box" class="ml-auto mr-auto relative overflow-hidden">
     {% for image in page.images %}
+        {% if image == "Nicole-Feldl.jpg" %}
+        <a href="{{ site.url }}/public/images/Nicole-Feldl-full.jpg">
+        <img alt="" src="{{ site.url }}/public/images/{{ image }}" class="mw5 ma2 fl"></a>
+        {% else %}
         <a href="{{ site.url }}/public/images/{{ image }}">
         <img alt="" src="{{ site.url }}/public/images/{{ image }}" class="mw5 ma2 fl"></a>
+        {% endif %}
     {% endfor %}
     </div>
 {% endif %}
