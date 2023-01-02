@@ -3,7 +3,7 @@ layout: article
 title: join 
 ---
 
-We are always looking for motivated, qualified, and collaborative researchers to join our group. If you are interested in pursuing quantitative research in atmospheric or climate dynamics at the University of California, Santa Cruz, email [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) a brief statement of your research background and interests and include your CV and transcript.
+We are always looking for motivated, qualified, and collaborative researchers to join our group. If you are interested in pursuing quantitative research in atmospheric or climate dynamics at the University of California, Santa Cruz, email [Nicole Feldl](https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl) a brief statement of your research background and interests and include your CV and, if you are a student, transcript.
 
 **For prospective graduate students:** Please apply to the [graduate program in Earth and Planetary Sciences][epsgrad] and also consider applying for the [NSF Graduate Research Fellowship][nsfgrfp]. Note that I find it most equitable, efficient, and helpful to wait to chat by phone or zoom with prospective students until *after* applications have been submitted. If the application fee is an undue burden, fee waivers are available (details in link above); this will not affect how your application is assessed. 
 
