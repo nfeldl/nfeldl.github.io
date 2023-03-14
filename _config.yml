@@ -74,6 +74,6 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "serious games"
+      type: "serious-games"
     values:
       layout: "project"
