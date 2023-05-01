@@ -3,8 +3,8 @@ title: "Climate sensitivity is sensitive to changes in ocean heat transport"
 people:
 - Hansi Singh 
 - Nicole Feldl
-- Jennifer E. Kay
-- Ariel L. Morrison
+- Jen Kay
+- Ariel Morrison
 
 type: research paper
 published: true
