@@ -13,7 +13,7 @@ updates:
 
 - date: 2023-12-06
   type: publication
-  text: "Bonan, D. B., N. Feldl, M. D. Zelinka, L. C. Hahn (2023), submitted."
+  text: "Bonan, D. B., N. Feldl, M. D. Zelinka, L. C. Hahn (2023), <i>Environmental Research: Climate</i>, in press."
 
 ---
 
