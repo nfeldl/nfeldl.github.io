@@ -2,8 +2,8 @@
 title: Atmospheric eddies mediate lapse rate feedback and Arctic amplification 
 people:
 - Nicole Feldl
-- Bruce Anderson (BU) 
-- Simona Bordoni (Caltech)
+- Bruce Anderson
+- Simona Bordoni
 type: research paper
 published: true
 updates:

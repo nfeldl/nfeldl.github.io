@@ -1,9 +1,9 @@
 ---
 title: "Changes in poleward atmospheric energy transport over a wide range of climates: Energetic and diffusive perspectives and a priori theories"
 people:
-- Timothy Merlis (McGill)
+- Timothy Merlis
 - Nicole Feldl
-- Rodrigo Caballero (Stockholm University)
+- Rodrigo Caballero
 
 type: research paper
 published: true
