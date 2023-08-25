@@ -11,7 +11,7 @@ updates:
 
 - date: 2023-08-09
   type: publication
-  text: "Chung, P.-C., and N. Feldl (2023), <i>Journal of Climate</i>, in press, [doi:10.1175/JCLI-D-23-0219.1](https://doi.org/10.1175/JCLI-D-23-0219.1)."
+  text: "Chung, P.-C., and N. Feldl (2023), <i>Journal of Climate</i>, in press, [doi:10.1175/JCLI-D-23-0219.1](https://eartharxiv.org/repository/view/5847/)."
 
 ---
 
