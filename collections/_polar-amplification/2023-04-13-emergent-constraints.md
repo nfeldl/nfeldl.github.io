@@ -10,9 +10,9 @@ published: true
 
 updates:
 
-- date: 2023-08-29
+- date: 2023-09-18
   type: publication
-  text: "Linke, O., N. Feldl, and J. Quaas (2023), <i>Environmental Research: Climate</i>, in press, [doi:10.1088/2752-5295/acf4b7](https://doi.org/10.1088/2752-5295/acf4b7)."
+  text: "Linke, O., N. Feldl, and J. Quaas (2023), <i>Environmental Research: Climate</i>, 2(045003), [doi:10.1088/2752-5295/acf4b7](https://doi.org/10.1088/2752-5295/acf4b7)."
 
 ---
 
