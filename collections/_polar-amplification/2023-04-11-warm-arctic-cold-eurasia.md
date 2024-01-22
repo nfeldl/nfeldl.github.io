@@ -10,7 +10,7 @@ published: true
 
 updates:
 
-- date: 2023-12-04
+- date: 2024-02-01
   type: publication
   text: "Kaufman, Z. S., N. Feldl, and C. Beaulieu (2023), submitted. [preprint](https://eartharxiv.org/repository/view/6213/)"
 
