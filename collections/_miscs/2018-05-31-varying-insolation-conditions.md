@@ -2,11 +2,13 @@
 title: Sensitivity of polar amplification to varying insolation conditions 
 people:
 - Doyeon Kim
-- Sarah Kang (UNIST, Korea)
+- Sarah Kang
 - Yechul Shin
 - Nicole Feldl
+
 type: research paper
 published: true
+
 updates:
 
 - date: 2018-05-31
