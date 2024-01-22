@@ -4,6 +4,7 @@ title: people
 images:
 - Nicole-Feldl.jpg
 - Alexandre-Audette.jpeg
+- Weiming-Ma.jpg
 - Po-Chun-Chung.jpg
 - Hayes-Devaney.jpeg
 - Mark-England.jpeg
