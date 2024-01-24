@@ -10,7 +10,7 @@ published: true
 
 updates:
 
-- date: 2024-02-01
+- date: 2024-01-16
   type: publication
   text: "Kaufman, Z. S., N. Feldl, and C. Beaulieu (2024), <i>Environmental Research: Climate</i>, in press, [doi:10.1088/2752-5295/ad1f40](https://doi.org/10.1088/2752-5295/ad1f40)." 
 
