@@ -2,10 +2,10 @@
 title: Sea ice and atmospheric circulation shape the high-latitude lapse rate feedback 
 people:
 - Nicole Feldl
-- Stephen Po-Chedley (LLNL)
-- Hansi Singh (UVic)
+- Stephen Po-Chedley
+- Hansi Singh
 - Stephanie Hay
-- Paul Kushner (UToronto)
+- Paul Kushner
 
 type: research paper
 image: lapse-rate-feedback.jpg
