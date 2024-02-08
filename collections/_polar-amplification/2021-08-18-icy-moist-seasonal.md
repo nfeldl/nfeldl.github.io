@@ -2,7 +2,7 @@
 title: "Polar amplification in idealized climates: the role of ice, moisture, and seasons" 
 people:
 - Nicole Feldl
-- Timothy Merlis (McGill)
+- Timothy Merlis
 
 type: research paper
 image: moist-dry-pa.jpg
