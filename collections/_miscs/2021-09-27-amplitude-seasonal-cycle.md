@@ -25,7 +25,7 @@ updates:
 
 - date: 2022-06-09
   type: publication
-  text: "Santer, B. D., S. Po-Chedley, N. Feldl, J. C. Fyfe, Q. Fu, S. Solomon, M. England, K. B. Rodgers, M. F. Stuecker, C. Mears, C.-Z. Zou, C. J. W. Bonfils, G. Pallotta, M. D. Zelinka, N. Rosenbloom, J. Edwards (2022), Robust anthropogenic signal identified in the seasonal cycle of tropospheric temperature, *Journal of Climate*, 35(18), 6075–6100, [doi:10.1175/JCLI-D-21-0766.1](https://doi.org/10.1175/JCLI-D-21-0766.1)."
+  text: "Santer, B. D., S. Po-Chedley, N. Feldl, J. C. Fyfe, Q. Fu, S. Solomon, M. England, K. B. Rodgers, M. F. Stuecker, C. Mears, C.-Z. Zou, C. J. W. Bonfils, G. Pallotta, M. D. Zelinka, N. Rosenbloom, J. Edwards (2022), *Journal of Climate*, 35(18), 6075–6100, [doi:10.1175/JCLI-D-21-0766.1](https://doi.org/10.1175/JCLI-D-21-0766.1)."
 
 ---
 
