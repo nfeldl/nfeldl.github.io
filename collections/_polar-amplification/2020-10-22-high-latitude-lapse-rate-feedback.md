@@ -8,7 +8,6 @@ people:
 - Paul Kushner
 
 type: research paper
-image: lapse-rate-feedback.jpg
 published: true
 
 updates:

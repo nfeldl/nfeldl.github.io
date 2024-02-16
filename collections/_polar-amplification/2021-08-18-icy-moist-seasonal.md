@@ -5,7 +5,6 @@ people:
 - Timothy Merlis
 
 type: research paper
-image: moist-dry-pa.jpg
 published: true
 
 updates:

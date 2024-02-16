@@ -5,7 +5,6 @@ people:
 - Nicole Feldl
 
 type: research paper
-image: causal-effect-lhfc-inversion.jpg
 published: true
 
 updates:
