@@ -11,7 +11,7 @@ updates:
 
 - date: 2024-01-19
   type: publication
-  text: "England, M. R., and N. Feldl (2024), <i>Journal of Climate</i>, in press, [doi:10.1175/JCLI-D-23-0151.1](https://doi.org/10.1175/JCLI-D-23-0151.1)."
+  text: "England, M. R., and N. Feldl (2024), <i>Journal of Climate</i>, 37, 2179–2197, [doi:10.1175/JCLI-D-23-0151.1](https://doi.org/10.1175/JCLI-D-23-0151.1)."
 
 ---
 

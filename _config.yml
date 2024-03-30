@@ -29,6 +29,8 @@ collections:
     output: true 
   miscs:
     output: true 
+  moist-intrusions:
+    output: true
   polar-amplification:
     output: true
   feedbacks-sensitivity:
@@ -57,6 +59,11 @@ defaults:
       type: "clusters"
     values:
       layout: "cluster"
+  - scope:
+      path: ""
+      type: "moist-intrusions"
+    values:
+      layout: "project"
   - scope:
       path: ""
       type: "polar-amplification"
