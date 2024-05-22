@@ -1,5 +1,5 @@
 ---
-title: "Moist transport into the Arctic revealed by numerical water tracers in an Earth system model"
+title: "Moisture transport into the Arctic revealed by numerical water tracers in an Earth system model"
 people:
 - Alexandre Audette 
 - Nicole Feldl
