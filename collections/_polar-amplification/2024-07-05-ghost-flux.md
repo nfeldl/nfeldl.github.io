@@ -1,5 +1,5 @@
 ---
-title: Sea ice perturbations in aquaplanet simulations: Isolating the physical climate responses from model interventions 
+title: "Sea ice perturbations in aquaplanet simulations: Isolating the physical climate responses from model interventions" 
 people:
 - Mark England 
 - Nicole Feldl
