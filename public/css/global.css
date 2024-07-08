@@ -2,9 +2,10 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
 @import url("https://fonts.googleapis.com/css?family=Inconsolata");
 @import url("https://fonts.googleapis.com/css?family=Cardo");
+@import url("https://fonts.googleapis.com/css?family=Barlow");
 
 body {
-  font-family: "Helvetica", san-serif;
+  font-family: "Barlow", san-serif;
   max-width: 40em;
   font-size: 16px;
   margin: 1em auto;
