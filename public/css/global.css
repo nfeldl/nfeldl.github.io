@@ -185,6 +185,7 @@ table {
 }
 
 .columbia {
+  font-family: "Inconsolata", monospace;
   display: block;
   position: relative;
   font-size: 18px;
