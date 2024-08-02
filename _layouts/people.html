@@ -31,14 +31,14 @@ layout: article
 </div>
 -->
 
-<div class = "f4">Current</div>
+<div class = "f4 mb2">Current</div>
     <ul class = "people-list mt0 di">
         {% for mod in site.data.mods %}
             <li class = "di"><a href="{{ mod.url }}">{{ mod.name }}</a></li>
         {% endfor %}
     </ul>
 
-<div class="f4 mt3">Alumni</div>
+<div class="f4 mt3 mb2">Alumni</div>
 
     <ul class="people-list mt0 di">
         {% for mod in site.data.alumns %}
