@@ -1,13 +1,13 @@
 ---
 title: "Process drivers, inter-model spread, and the path forward: A review of amplified Arctic warming"
 people:
-- Patrick C. Taylor 
-- Robyn C. Boeke
+- Patrick Taylor 
+- Robyn Boeke
 - Linette N. Boisvert
 - Nicole Feldl
 - Matthew Henry
 - Yiyi Huang
-- Peter L. Langen
+- Peter Langen
 - Wei Liu
 - Felix Pithan
 - Sergio Sejas
