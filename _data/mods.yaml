@@ -1,5 +1,5 @@
 - name: Prof. Nicole Feldl 
-  url: https://eps.ucsc.edu/faculty/Profiles/fac-only.php?uid=nfeldl 
+  url: https://eps.ucsc.edu/faculty/index.php?uid=nfeldl 
   datestart: 2016
 
 - name: Dr. Alexandre Audette 
@@ -18,6 +18,7 @@
   url: https://eps.ucsc.edu/graduate/grad-directory.php?uid=hadevane
   datestart: 2021
 
-- name: Henry Olling
-  datestart: 2023
+- name: Parke Funderburk 
+  url: https://eps.ucsc.edu/graduate/grad-directory.php?uid=pfunderb
+  datestart: 2024
 
