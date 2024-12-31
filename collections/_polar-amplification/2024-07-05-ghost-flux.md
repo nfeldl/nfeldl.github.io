@@ -12,7 +12,7 @@ updates:
 
 - date: 2024-12-06
   type: publication
-  text: "England, M. R., N. Feldl, and I. Eisenman (2024), *Environmental Research: Climate*, 3, 045031, [doi:10.1088/2752-5295/ad9b45](https://doi.org/10.1088/2752-5295/ad9b45)[doi:10.1088/2752-5295/ad9b45]." 
+  text: "England, M. R., N. Feldl, and I. Eisenman (2024), *Environmental Research: Climate*, 3, 045031, [doi:10.1088/2752-5295/ad9b45](https://doi.org/10.1088/2752-5295/ad9b45)." 
 
 ---
 
