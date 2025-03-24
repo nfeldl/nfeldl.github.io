@@ -13,7 +13,7 @@ updates:
 
 - date: 2025-01-09
   type: publication
-  text: "Bonan, D. B., J. E. Kay, N. Feldl, and M. D. Zelinka (2025), <i>Environmental Research: Climate</i>, x, y, [doi:10.1088/2752-5295/ada84b](https://doi.org/10.1088/2752-5295/ada84b)."
+  text: "Bonan, D. B., J. E. Kay, N. Feldl, and M. D. Zelinka (2025), <i>Environmental Research: Climate</i>, 4, 015001, [doi:10.1088/2752-5295/ada84b](https://doi.org/10.1088/2752-5295/ada84b)."
 
 ---
 
