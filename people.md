@@ -10,6 +10,5 @@ images:
 - Parke-Funderburk.jpeg
 - Mark-England.jpeg
 - Zachary-Kaufman.jpg
-- Emiliia-Dyrenkova.jpg
 ---
 
