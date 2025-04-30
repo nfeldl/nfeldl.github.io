@@ -1,6 +1,6 @@
 ---
 title: "Explaining the transient and equilibrium longwave feedback with moist adiabatic theory and its deviations"
-people:i
+people:
 - Nicole Feldl
 - Jing Feng 
 - David Paynter
