@@ -29,6 +29,8 @@ collections:
     output: true 
   miscs:
     output: true 
+  energy-transport:
+    output: true
   moist-intrusions:
     output: true
   polar-amplification:
@@ -59,6 +61,11 @@ defaults:
       type: "clusters"
     values:
       layout: "cluster"
+  - scope:
+      path: ""
+      type: "energy-transport"
+    values:
+      layout: "project"
   - scope:
       path: ""
       type: "moist-intrusions"
