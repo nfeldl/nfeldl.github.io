@@ -7,7 +7,7 @@ images:
 - Weiming-Ma.jpg
 - Po-Chun-Chung.jpg
 - Hayes-Devaney.jpeg
-- Parke-Funderburk.jpeg
+- Parke-Funderburk.jpg
 - Mark-England.jpeg
 - Zachary-Kaufman.jpg
 ---
