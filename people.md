@@ -6,8 +6,8 @@ images:
 - Alexandre-Audette.jpg
 - Weiming-Ma.jpg
 - Po-Chun-Chung.jpg
-- Hayes-Devaney.jpeg
 - Parke-Funderburk.jpg
+- Hayes-Devaney.jpeg
 - Mark-England.jpeg
 - Zachary-Kaufman.jpg
 ---
