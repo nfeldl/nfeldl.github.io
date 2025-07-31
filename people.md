@@ -3,7 +3,7 @@ layout: people
 title: people
 images:
 - Nicole-Feldl.jpg
-- Alexandre-Audette.jpeg
+- Alexandre-Audette.jpg
 - Weiming-Ma.jpg
 - Po-Chun-Chung.jpg
 - Hayes-Devaney.jpeg
