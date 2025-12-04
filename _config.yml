@@ -31,7 +31,7 @@ collections:
     output: true 
   energy-transport:
     output: true
-  moist-intrusions:
+  moisture-intrusions:
     output: true
   polar-amplification:
     output: true
@@ -68,7 +68,7 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "moist-intrusions"
+      type: "moisture-intrusions"
     values:
       layout: "project"
   - scope:
