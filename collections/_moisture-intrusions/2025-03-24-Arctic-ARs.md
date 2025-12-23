@@ -15,7 +15,7 @@ published: true
 
 updates:
 
-- date: 2025-11-08
+- date: 2025-09-28
   type: publication
   text: "Ma, W., H. Wang, S. Zhang, B. Singh, Y. Qian, Y. Huo, N. Feldl, and A. Audette, (2025), <i>Journal of Geophysical Research: Atmospheres</i>, 130, e2025JD043918, [doi:10.1029/2025JD043918](https://doi.org/10.1029/2025JD043918)."
 
