@@ -21,7 +21,7 @@ updates:
 
 - date: 2025-11-07
   type: publication
-  text: "Baxter, I., Q. Ding, T. Ballinger, H. Wang, M. Holland, H. Wang, Z. Li, Y. Wu, N. Feldl, J. E. Kay, B. Guan, and J. Zhu (2025) <i>Communications Earth & Environment<i>, 6, 1027, [doi:10.1038/s43247-025-03000-x](https://doi.org/10.1038/s43247-025-03000-x)."
+  text: "Baxter, I., Q. Ding, T. Ballinger, H. Wang, M. Holland, H. Wang, Z. Li, Y. Wu, N. Feldl, J. E. Kay, B. Guan, and J. Zhu (2025) <i>Communications Earth & Environment</i>, 6, 1027, [doi:10.1038/s43247-025-03000-x](https://doi.org/10.1038/s43247-025-03000-x)."
 
 
 ---
