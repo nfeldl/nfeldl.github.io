@@ -28,7 +28,7 @@ published: true
 
 updates:
 
-- date: 2025-07-02
+- date: 2026-07-02
   type: publication
   text: "Fox-Kemper, B., P. DeRepentigny, et al. (including N. Feldl) (2025), *EGUsphere*, [doi:10.5194/egusphere-2025-3083](https://doi.org/10.5194/egusphere-2025-3083)."
 
