@@ -15,7 +15,7 @@ published: true
 
 updates:
 
-- date: 2025-06-11
+- date: 2026-06-11
   type: publication
   text: "Audette, A., N. Feldl, H. Singh, K. Heyblom, H. Wang, J. Nusbaumer, H. Wan, and K. Zhang, (2025), submitted."
 

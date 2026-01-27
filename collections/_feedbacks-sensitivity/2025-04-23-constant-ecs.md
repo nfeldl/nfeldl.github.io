@@ -10,7 +10,7 @@ published: true
 
 updates:
 
-- date: 2025-04-23
+- date: 2026-04-23
   type: publication
   text: "Curtis, P. E., A. V. Federov, and N. Feldl (2025), submitted."
 
