@@ -12,7 +12,7 @@ updates:
 
 - date: 2026-03-10
   type: publication
-  text: "Donohoe, A., E. Blanchard-Wrigglesworth, and N. Feldl (2025), <i>Journal of Climate</i>, 39, 1723–1741, [doi:10.1175/JCLI-D-25-0261.1](https://doi.org/10.1175/JCLI-D-25-0261.1)."
+  text: "Donohoe, A., E. Blanchard-Wrigglesworth, and N. Feldl (2026), <i>Journal of Climate</i>, 39, 1723–1741, [doi:10.1175/JCLI-D-25-0261.1](https://doi.org/10.1175/JCLI-D-25-0261.1)."
 
 ---
 
