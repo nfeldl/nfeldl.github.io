@@ -25,8 +25,6 @@ whitelist:
 
 collections_dir: collections
 collections:
-  courses:
-    output: true 
   miscs:
     output: true 
   energy-transport:
@@ -46,11 +44,6 @@ collections:
 
 # specifies default layouts for all items in collection subfolders
 defaults:
-  - scope:
-      path: ""
-      type: "courses"
-    values:
-      layout: "course"
   - scope:
       path: ""
       type: "miscs"

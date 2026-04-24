@@ -1,100 +1,33 @@
-# xpmethod.github.io
-[![Build Status](https://travis-ci.org/xpmethod/xpmethod.github.io.svg?branch=master)](https://travis-ci.org/xpmethod/xpmethod.github.io)
+# nfeldl.github.io
 
-This page describes the file structure and the taxonomy of xpmethod.github.io
+Source for [Nicole Feldl's academic website](http://nfeldl.github.io), built with Jekyll.
 
-## Logic
+## Local preview
 
-Everything is either a post or a page. Pages are in the root folder with a
-`.md` extension, and connect to `.html` layouts in the `_layouts` folder.
-Pages have tags and categories and a bunch of other fields described in the
-YAML block.
+To view the site locally before pushing changes:
 
-- `events.html` drives the **events** page which lists all posts in the
-  category `events`
-
-- `research.html` drives the **research** page, which lists all categories,
-  *except* for `events`
-
-- `strain.html` drives the single strain view, that lists all projects in a
-  given category (except for `events`)
-
-- `project.html` drives the single project view
-
-- there is no "projects" view yet
-
-## YAML Headers
-This section describes the fields in the site's YAML taxonomy.  
-
-`layout:` looks for the corresponding .html in `_layouts/`  
-`title:` accessible though the `post.title` liquid tag  
-
-```yaml
-tags:
- - Manan Ahmed
- - Alex Gil
- - Dennis Tenen
- - Grant Wythoff
-```
-Used to pull out the contributors on the "People" page and for project description in "strain" and "project" views. Should be plural and using the dash list as illustrated above (even for singular tags!). If you’d like your contributor name to link to your personal website, add your name to `_data/contributors.yaml`, with your url, in the form: 
-
-```yaml
-Author Name: 
- - url: http://authorsite.com
+```bash
+bundle exec jekyll serve
 ```
 
-If you use a name/url for one post, please make sure it is consistent with the
-tag in previous posts to avoid duplicates on the "People" page.
+Then open `http://localhost:4000` in a browser. The site rebuilds automatically when files are saved.
 
-`categories:` indicates research strains in the "research" section. Possible
-values include "on-method," "public-discourse," and "minimal-computing." In
-addition the "events" category places the post into the "events" section.
-"Categories" is always plural.  
+### First-time setup
 
-`type:` arbitrary types like "web-app," "seminar," "paper," and the like used
-to generate tags. We needed the built-in `tags` to drive the social aspect of
-the site.  
+Requires Homebrew Ruby 3.3 (not the macOS system Ruby):
 
-`issue:` indicates the issue to which the project belongs. Issues are
-typically two-digit years, such as `15` or `14` for 2015 and 2014,
-respectively.
+1. Install Ruby 3.3: `brew install ruby@3.3`
+2. Add to `~/.zshrc`: `export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"`
+3. Open a new terminal, then run:
+   ```bash
+   bundle config set build.eventmachine --with-cppflags=-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1
+   bundle install
+   ```
 
-Additionally, the posts in the "events" layout have the following fields:  
+## Structure
 
-`prompt:` used to pull out the prompts in the "events" section. Should be in
-quotations.  `location:` used to indicate location in the "events" section  
-
-`snippet:` should be the numeric number of **words** that you want to be
-included in your snippet. Note that his counts .md and HTML tags, but we will
-try to "prettify" the snippet by rendering the markup. However, bad things
-*will* happen if we pull a snippet that breaks one of your html or .md tags.
-Try to keep the snippets clean for this reason.
-
-`image:` an image can be handled by this tag to gracefully handle image
-snippets. Avoid embedding images into the post otherwise.
-
-```yaml
-images:
- - image1.jpg
- - image2.jpg
- - image3.jpg
-```
-
-Used for posts requiring multiple images. Images must be placed in
-/public/images or path specified if in subfolder.
-
-`sparkle:` is an option to include the little progress report visualization
-seen in plain-text book project Dates in the "events" and "event" view are
-generated form the post title.  
-
-The site was originally forked from
-<https://github.com/mojombo/mojombo.github.io>
-
-# Style
-
-- set your editor to hard-wrap at 78 characters
-- if you are using vim, use the sample .vimrc file provided here for lab
-defaults
-- for links to static pages use Internet Archive snapshots as much as possible to minimize link rot
-- for simple issues use the [TODO.md](https://github.com/xpmethod/xpmethod.github.io/blob/master/TODO.md) file
-- travis
+- `_layouts/` — HTML templates
+- `_includes/` — reusable HTML fragments (header, footer)
+- `public/css/global.css` — all site styling
+- `collections/` — research projects organized by theme
+- `*.md` — top-level pages (index, papers, people, join)
