@@ -11,6 +11,7 @@ people:
 - Yevgeny Aksenov
 - Paul J. Durack
 - Nicole Feldl
+- Oluwayemi Garuba
 - Vanessa Hernaman
 - Céline Heuzé
 - Doroteaciro Iovino
@@ -28,11 +29,10 @@ published: true
 
 updates:
 
-- date: 2026-07-02
+- date: 2026-07-09
   type: publication
-  text: "Fox-Kemper, B., P. DeRepentigny, et al. (including N. Feldl) (2025), *EGUsphere*, [doi:10.5194/egusphere-2025-3083](https://doi.org/10.5194/egusphere-2025-3083)."
+  text: "Fox-Kemper, B., P. DeRepentigny, et al. (including N. Feldl) (2026), *Geoscientific Model Development*, 19, 6043–6078, [doi:10.5194/gmd-19-6043-2026](https://doi.org/10.5194/gmd-19-6043-2026)."
 
 ---
 
-Previous work identified an anthropogenic fingerprint pattern in TAC(x, t), the amplitude of the seasonal cycle of mid- to upper-tropospheric temperature (TMT), but did not explicitly consider whether fingerprint identification in satellite TAC(x, t) data could have been influenced by real-world multidecadal internal variability (MIV). We address this question here using large ensembles (LEs) performed with five climate models. LEs provide many different sequences of internal variability noise superimposed on an underlying forced signal. Despite differences in historical external forcings, climate sensitivity, and MIV properties of the five models, their TAC(x, t) fingerprints are similar and statistically identifiable in 239 of the 240 LE realizations of historical climate change. Comparing simulated and observed variability spectra reveals that consistent fingerprint identification is unlikely to be biased by model underestimates of observed MIV. Even in the presence of large (factor of 3–4) intermodel and inter-realization differences in the amplitude of MIV, the anthropogenic fingerprints of seasonal cycle changes are robustly identifiable in models and satellite data. This is primarily due to the fact that the distinctive, global-scale fingerprint patterns are spatially dissimilar to the smaller-scale patterns of internal TAC(x, t) variability associated with the Atlantic multidecadal oscillation and El Niño–Southern Oscillation. The robustness of the seasonal cycle detection and attribution results shown here, taken together with the evidence from idealized aquaplanet simulations, suggest that basic physical processes are dictating a common pattern of forced TAC(x, t) changes in observations and in the five LEs. The key processes involved include GHG-induced expansion of the tropics, lapse-rate changes, land surface drying, and sea ice decrease.
-
+The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Recent decades have seen rapid advances in Earth System Models (ESMs), but limitations remain in simulating and comparing key oceanic and cryospheric processes across models. A recurring challenge in model intercomparison efforts like the Coupled Model Intercomparison Project (CMIP) is determining the output variables that best represent essential mechanisms while remaining manageable in volume and complexity. Here we present the CMIP7 ocean and sea ice data request, developed through an international, community-based process to prioritize variables for model output. We identify seven opportunities – science-based use cases spanning ocean and cryosphere drivers and responses, paleoclimate, polar amplification, extremes, wind waves, and rapid model evaluation – to guide variable selection and temporal resolution. To address these opportunities, we request new high-frequency and depth-integrated variables, support improved diagnostics of ocean heat uptake, sea ice processes, and model-observation comparison, and build on lessons from CMIP6. Our approach enables targeted, efficient, and transparent data curation to support a wide range of users, from model developers to policymakers. This effort reflects a growing need for more sophisticated, integrative model outputs that address pressing climate questions, including regional extremes and tipping points, while laying the groundwork for future modeling developments.
