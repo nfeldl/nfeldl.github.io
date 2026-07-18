@@ -5,7 +5,8 @@
     </h1>
 
     <nav class="tl overflow-hidden">
-    {% assign sorted_pages = site.pages | sort:"name" %}
+    <!-- nav order is set by the 'order' field in each page's front matter -->
+    {% assign sorted_pages = site.pages | where_exp:"p","p.order" | sort:"order" %}
       <ul class="list ma0 pa0">
         {% for node in sorted_pages %}
           {% if node.title != null %}
@@ -13,10 +14,10 @@
               <li class="fl di">
                     <!-- this matches strings in the url to node title to highlight the active page -->
                     <a class="hover-red ttl nav pr2
-                    {% if page.url contains node.title %} active
-                    {% elsif page.path contains 'projects' and  node.title == 'projects' %} active
-                    {% elsif page.url == '/' and node.title == 'projects' %} active
-                    {% endif %}" 
+                    {% if page.url == '/' and node.url == '/' %} active
+                    {% elsif node.url != '/' and page.url contains node.title %} active
+                    {% elsif page.layout == 'project' and node.title == 'research' %} active
+                    {% endif %}"
                     href="{{ node.url }}">
                         {{ node.title }}
                     </a>

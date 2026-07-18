@@ -1,6 +1,7 @@
 ---
 layout: people
 title: people
+order: 4
 images:
 - Nicole-Feldl.jpg
 - Alexandre-Audette.jpg
