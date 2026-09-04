@@ -12,7 +12,7 @@ updates:
 
 - date: 2026-08-11
   type: publication
-  text: "Chung, P.-C., N. Feldl, and A. Audette (2026), *Journal of Climate*, [preprint link coming soon!](https://doi.org/)."
+  text: "Chung, P.-C., N. Feldl, and A. Audette (2026), *Journal of Climate*, [preprint](https://doi.org/10.22541/essoar.15008252/v1)."
 
 ---
 
